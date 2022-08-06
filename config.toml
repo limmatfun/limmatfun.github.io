@@ -1,0 +1,45 @@
+baseURL = "https://limmat.fun/"
+languageCode = "en-us"
+title = "Limmat"
+theme = "ink"
+
+# Number of posts to show in recent posts list (Optional). Defaults to 10.
+paginate = 10
+
+# Number of characters to show in summary.
+summaryLength = 20
+
+[params]
+    # Blog subtitle which appears below blog title. Supports markdown.
+    subtitle = "Ramblings on Stuff"
+    
+    # Optional 64x64 avatar image.
+	avatar = "/images/logo.png"
+    
+    # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
+    favicon = "images/logo.png"
+    
+# Main menu which appears below site header.
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
+
+# Enable tags.
+[taxonomies]
+   tag = "tags"
