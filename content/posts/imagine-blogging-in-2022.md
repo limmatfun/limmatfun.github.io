@@ -2,6 +2,7 @@
 title: "Imagine Blogging in 2022"
 date: 2022-08-05T12:34:32+02:00
 draft: false
+limmat_temperature: 25.5
 ---
 
 It seems like by starting a blog now **I'm going against a dying trend**. Personal **blogging peaked more than a decade ago** if we consider [Google Trends](https://trends.google.com/) a good indication of what happened. This is how popular the term "blog" has been since 2004:

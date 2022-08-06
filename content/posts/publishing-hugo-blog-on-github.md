@@ -2,6 +2,7 @@
 title: "Publishing Hugo Blog on Github"
 date: 2022-08-06T12:44:28+02:00
 draft: true
+limmat_temperature: 5.5
 ---
 
 first checked what blogging platforms there are. ended up with mataora (instead of the one it's based on). but didn't like I can't change the design of the blog.

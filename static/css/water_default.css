@@ -27,3 +27,13 @@ html.dark a, a:active, a:hover {
 .footer a {
     color: #bfbfbf;
 }
+
+.river {
+    font-size: 0.75em;
+    color: #9ef6e8;
+    font-style: italic;
+}
+
+.post-header h1.title {
+    margin: -10px 0 -6px 0;
+}
