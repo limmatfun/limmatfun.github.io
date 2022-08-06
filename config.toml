@@ -1,4 +1,4 @@
-baseURL = "https://limmatfun.github.io"
+baseURL = "https://limmat.fun"
 languageCode = "en-us"
 title = "Limmat"
 theme = "ink"
@@ -17,7 +17,7 @@ summaryLength = 20
 	avatar = "/images/logo.png"
     
     # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
-    favicon = "images/logo.png"
+    favicon = "/images/logo.png"
     
 # Main menu which appears below site header.
 [[menu.main]]
