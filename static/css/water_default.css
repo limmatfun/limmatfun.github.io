@@ -1,0 +1,29 @@
+body {
+    background-color: #197891;
+    color: #eaeaea;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #fff;
+}
+
+a {
+    color: #a3ff85;
+}
+
+img {
+    border: 3px solid #54baed;
+}
+
+html.dark a, a:active, a:hover {
+    color: #85fcff !important;
+    border-bottom: 2px solid #a2c4ff;
+}
+
+.site-title a {
+    color: #fff;
+}
+
+.footer a {
+    color: #bfbfbf;
+}

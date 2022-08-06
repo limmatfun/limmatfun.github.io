@@ -11,13 +11,16 @@ summaryLength = 20
 
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
-    subtitle = "Ramblings on Stuff"
+    subtitle = "A blog on life, tech and the mundane"
     
     # Optional 64x64 avatar image.
 	avatar = "/images/logo.png"
     
     # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
     favicon = "/images/logo.png"
+    
+    # Custom CSS for the default (non-dark) template
+    customCSS = "/css/water_default.css"
     
 # Main menu which appears below site header.
 [[menu.main]]
