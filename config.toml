@@ -1,6 +1,6 @@
 baseURL = "https://limmat.fun"
 languageCode = "en-us"
-title = "🌊 Limmat"
+title = "Limmat"
 theme = "ink"
 
 # Number of posts to show in recent posts list (Optional). Defaults to 10.
@@ -14,7 +14,7 @@ summaryLength = 20
     subtitle = "A blog on life, tech and the mundane"
     
     # Optional 64x64 avatar image.
-	#avatar = "/images/logo.png"
+	avatar = "🌊"
     
     # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
     favicon = "/images/logo.png"
