@@ -38,6 +38,18 @@ html.dark a, a:active, a:hover {
     margin: -10px 0 -6px 0;
 }
 
+.post .post-header {
+    margin-bottom: 0px;
+}
+
+.post .title.small {
+    margin: 0;
+}
+
+li.post .post-header {
+    margin-bottom: 30px;
+}
+
 .header .avatar {
     float: left;
     margin: 25px 20px 0 0;
@@ -45,4 +57,10 @@ html.dark a, a:active, a:hover {
 
 .avatar a {
     font-size: 4em;
+}
+
+figcaption p {
+    margin: -10px;
+    font-size: 0.9em;
+    font-style: italic;
 }

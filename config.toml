@@ -13,7 +13,7 @@ summaryLength = 20
     # Blog subtitle which appears below blog title. Supports markdown.
     subtitle = "A blog on life, tech and the mundane"
     
-    # Optional 64x64 avatar image.
+    # Optional emoji as avatar.
 	avatar = "🌊"
     
     # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
