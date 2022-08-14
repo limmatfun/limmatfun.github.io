@@ -1,3 +1,7 @@
+{{/* Get temperature and timestamp of Limmat */}}
+{{ $dataJ := getJSON "https://api.existenz.ch/apiv1/hydro/latest?locations=2243&parameters=temperature,flow&app=my.app.ch&version=1.0.42" }}
+{{ $time := time (int (index $dataJ.payload 0).timestamp ) }}
+
 <div class="header">
 	{{ if .Site.Params.Avatar }}
 		<div class="avatar">
@@ -6,7 +10,7 @@
 			</a>
 		</div>
 	{{ end }}
-	<h1 class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a></h1>
+	<h1 class="site-title"><a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a> <span class="temperature">{{ printf "%.1f" (index $dataJ.payload 0).val }}°C <span class="timestamp">({{ printf "%d:%02d" $time.Hour $time.Minute }})</span></span></h1>
 	<div class="site-description">
 		{{- if isset .Site.Params "subtitle" -}}
 		<p>{{ .Site.Params.Subtitle | markdownify }}</p>

@@ -64,3 +64,12 @@ figcaption p {
     font-size: 0.9em;
     font-style: italic;
 }
+
+h1 .temperature {
+    font-size: 0.35em;
+    color: #b6b7da;
+}
+
+h1 .timestamp {
+    font-size: 0.8em;
+}

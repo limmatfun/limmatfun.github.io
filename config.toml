@@ -9,6 +9,8 @@ paginate = 10
 # Number of characters to show in summary.
 summaryLength = 20
 
+timeZone = "Europe/Zurich"
+
 [params]
     # Blog subtitle which appears below blog title. Supports markdown.
     subtitle = "A blog on life, tech and the mundane"
