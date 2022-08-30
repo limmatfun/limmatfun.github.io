@@ -1,7 +1,7 @@
 ---
 title: "Work"
 date: 2022-08-30T08:07:41-07:00
-draft: false
+draft: true
 limmat_temperature: 24.1
 tags: ["Personal", "Work"]
 ---
