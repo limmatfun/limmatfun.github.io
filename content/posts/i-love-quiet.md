@@ -3,6 +3,7 @@ title: "I Love Quiet"
 date: 2022-08-13T08:07:41-07:00
 draft: false
 limmat_temperature: 24.1
+tags: ["Personal"]
 ---
 
 I'm in Sacramento this weekend. Fun fact for all non-americans, this is California's capital (I've been multiple times to California and had no clue).
