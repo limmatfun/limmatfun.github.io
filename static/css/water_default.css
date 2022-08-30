@@ -28,6 +28,12 @@ html.dark a, a:active, a:hover {
     color: #bfbfbf;
 }
 
+.post .tags a {
+    border: 1px solid #54baed !important;
+    color: #54baed !important;
+    background-color: #0d4c4e;
+}
+
 .river {
     font-size: 0.75em;
     color: #9ef6e8;
