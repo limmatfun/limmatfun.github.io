@@ -6,6 +6,10 @@ on:
   push:
     branches: ["master"]
 
+  # Run every hour at :30
+  schedule:
+    - cron: '30 * * * *'
+
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
