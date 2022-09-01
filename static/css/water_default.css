@@ -15,9 +15,22 @@ img {
     border: 3px solid #54baed;
 }
 
+blockquote {
+    border-color: #a3ff85;
+    font-size: 1.2rem;
+}
+
 html.dark a, a:active, a:hover {
     color: #85fcff !important;
     border-bottom: 2px solid #a2c4ff;
+}
+
+ul.flat li {
+    display: inline;
+}
+
+ul.flat li:first-child {
+    margin-right: 5px;
 }
 
 .site-title a {
@@ -29,9 +42,10 @@ html.dark a, a:active, a:hover {
 }
 
 .post .tags a {
-    border: 1px solid #54baed !important;
-    color: #54baed !important;
+    border: 1px solid #54baed;
+    color: #54baed;
     background-color: #0d4c4e;
+    margin: 0 5px 0 0;
 }
 
 .river {
