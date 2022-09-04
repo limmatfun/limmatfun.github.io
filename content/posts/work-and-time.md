@@ -1,7 +1,7 @@
 ---
 title: "Work"
 date: 2022-09-04T08:07:41-07:00
-draft: true
+draft: false
 limmat_temperature: 23.3
 tags: ["Work", "Money"]
 ---
