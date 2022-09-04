@@ -29,7 +29,7 @@ ul.flat li {
     display: inline;
 }
 
-ul.flat li:first-child {
+.tags ul.flat li:first-child {
     margin-right: 5px;
 }
 
