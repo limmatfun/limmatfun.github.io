@@ -42,3 +42,11 @@ I love this paragraph. I don't think the author is actually making an argument f
 
 I'm not sure I've quite figured out what really matters to me, but I think I've figured out that I don't see myself working 100% for too long anymore either. I plan on trying a small experiment taking unpaid time off more often and seeing how it goes. Maybe it will help me have the energy to work on side projects. Maybe I'll get bored. I don't know. But that's OK.
 
+<!--- 
+Interestingly there's another article I really liked which has the opposite title: [Life is short](http://paulgraham.com/vb.html). If you read it carefully they're actually sending exactly the same message:
+
+
+
+*  [In Praise of Idleness](https://harpers.org/archive/1932/10/in-praise-of-idleness/) (by Bertrand Russell, 1932)
+* [Nobody optimizes happiness](https://dynomight.net/happiness/)
+--->
