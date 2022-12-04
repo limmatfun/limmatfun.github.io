@@ -23,7 +23,7 @@ timeZone = "Europe/Zurich"
     
     # Custom CSS for the default (non-dark) template
     customCSS = "/css/water_default.css"
-    
+
 # Main menu which appears below site header.
 [[menu.main]]
 name = "Home"

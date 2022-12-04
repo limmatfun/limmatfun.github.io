@@ -11,8 +11,15 @@ a {
     color: #a3ff85;
 }
 
+code:not([class]) {
+    background-color: #4e919d;
+    padding: 2px;
+    border-radius: 7px;
+}
+
 img {
     border: 3px solid #54baed;
+    border-radius: 7px;
 }
 
 blockquote {
@@ -27,6 +34,16 @@ html.dark a, a:active, a:hover {
 
 ul.flat li {
     display: inline;
+}
+
+.highlight {
+    background-color: unset;
+}
+
+.highlight pre {
+    background-color: #123745 !important;
+    box-shadow: 5px 5px 5px rgb(68 68 68 / 60%);
+    border-radius: 7px;
 }
 
 .tags ul.flat li:first-child {
