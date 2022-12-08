@@ -1,5 +1,5 @@
 {{/* Get temperature and timestamp of Limmat */}}
-{{ $dataJ := getJSON "https://api.existenz.ch/apiv1/hydro/latest?locations=2243&parameters=temperature,flow&app=limmat.fun" }}
+{{ $dataJ := getJSON "https://api.existenz.ch/apiv1/hydro/latest?locations=2243&parameters=temperature&app=limmat.fun" }}
 {{ $time := time (int (index $dataJ.payload 0).timestamp ) }}
 
 <div class="header">
