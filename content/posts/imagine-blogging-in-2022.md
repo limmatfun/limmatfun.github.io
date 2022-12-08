@@ -14,7 +14,7 @@ It seems to have peaked around 2009. This also coincides with the rise of social
 
 ![facebook_growth.jpg](/images/facebook_growth.jpeg)
 
-Personal blogs used to be mostly about "what I did today", and Facebook made it easy and convenient to share this kind of information directly with your friends.
+Personal blogs used to be mostly about "what I did today", and Facebook made it easy and convenient to share this kind of information directly with your friends.   
 
 ## So why even start blogging now?
 **I miss having personal/side projects**. I have also been feeling nostalgic for the good ol' days. I started into the world of programming when I was around 12 by making websites, so it seems particularly fitting that I go back to something that used to bring me so much joy.
