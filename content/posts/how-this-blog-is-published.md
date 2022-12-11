@@ -16,7 +16,7 @@ The first category was not an option for me as I definitely didn't want any ads 
 
 The minimalistic platforms were aligned with my values, but not being able to change the design even by a little bit was a dealbreaker for me. I also want my blog to have some personality and not look as boring as all other blogs in the same platform. 
 
-So only one option was left, and I quited liked the idea of a static content generator. It just makes sense for a blog. Blog posts typically never change, so why would you even need a database for storing them. You write posts in [Markdown](https://www.markdownguide.org/getting-started/), which is a quite simple language to use and I'm already very familiar with it anyways.
+So only one option was left, and I quite liked the idea of a static content generator. It just makes sense for a blog. Blog posts typically never change, so why would you even need a database for storing them. You write posts in [Markdown](https://www.markdownguide.org/getting-started/), which is a quite simple language to use and I'm already very familiar with it anyways.
 
 ## Static content hosts
 
