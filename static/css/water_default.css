@@ -114,3 +114,25 @@ h1 .temperature {
 h1 .timestamp {
     font-size: 0.8em;
 }
+
+table {
+    border: 2px solid #54baed;
+    border-radius: 7px;
+    border-collapse: separate !important;
+}
+
+table th {
+    background-color: #0d4c4e;
+}
+
+table td {
+    border-bottom: 1px solid #5d90a9;
+}
+
+table tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+table tbody tr:nth-of-type(even) {
+    background-color: rgba(0, 0, 0, 0.2);
+}
