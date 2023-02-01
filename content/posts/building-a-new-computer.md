@@ -6,11 +6,16 @@ limmat_temperature: 9.4
 tags: ["Tech"]
 ---
 
-After 11 happy years with my current desktop it was finally showing signs of decay. I started getting BSoDs randomly but frequently, roughly every 30 minutes. Always watchdog alerts (?), which can be a bunch of different things. 
+After 11 happy years with my current desktop, it was finally showing signs of a slow death. I started suddenly getting the dreaded blue screen of deaths, roughly every 30 minutes. They were always DPC Watchdog violations. DPC stands for Deferred Procedure Call and Watchdog refers to a bug checker from Windows. When Watchdog doesn't respond within 100ms, the timeout results in a BSoD. This can be caused by a bunch of different things according to the websites I read [[1]](https://answers.microsoft.com/en-us/windows/forum/all/windows-10-dpc-watchdog-violation/3bb79ffc-3e1d-4bbd-b936-d7df59e6034c), [[2]](https://www.howtogeek.com/742322/how-to-fix-a-dpc-watchdog-violation-in-windows-10/), [[3]](https://www.tomshardware.com/news/how-to-fix-dpc-watchdog-violation-windows-10,36200.html), [[4]](https://www.partitionwizard.com/partitionmagic/dpc-watchdog-violation.html):
+*  Device drivers are outdated, or installed incorrectly
+*  Newly installed hardware is incompatible with the OS
+*  Corrupted or damaged system files
 
-{{< figure src="/images/github_pages_live.png" caption="An infamous blue screen of death. And yes, I'm very much a boomer. I use Windows in my spare time.">}}
+I have a strong suspicion that it's the latter, that some system files are getting corrupted as otherwise I haven't really made any update to the OS or to the hardware, so I don't see how any drivers could be a problem.
 
-I bought most of the parts 11 years ago and assembled it myself:
+{{< figure src="/images/bsod_watchdog.png" caption="An infamous blue screen of death. And yes, I'm very much a boomer. I use Windows in my spare time.">}}
+
+I tried a few of the recommendations, specially using [Windows' System File Checker](https://support.microsoft.com/en-us/topic/use-the-system-file-checker-tool-to-repair-missing-or-corrupted-system-files-79aa86cb-ca52-166a-92a3-966e85d4094e): `sfc /scannow`. It always found a few corrupted files and claimed to fix them, however after 30 minutes the PC would crash again. Since the files would once again be corrupted, I assume something is wrong either with my HDD or with one of my SSDs. I have two SSDs, one with Windows and another with Debian. My PC actually doesn't crash while on Debian, so I suspect the SSD where Windows lives is damaged. I did run a few tests and checked its health and everything seemed fine. However, Windows itself was already complaining my parts are too old to upgrade to Windows 11. I bought most the parts 11 years ago, and assembled it myself. Here's how much it cost back then:
 
 | Part | Date of Purchase | Price
 | :--- | :--------------- | ----:
@@ -24,7 +29,7 @@ I bought most of the parts 11 years ago and assembled it myself:
 | **Case**: Thermaltake Commander MS-I | 2011-10-16 | €37.72
 | Total |  | €738.38
 
-At the end of 2015 I was working on my master thesis and needed a more powerful GPU to train [convolutional neural networks](https://www.tensorflow.org/tutorials/images/cnn). Also I wanted an excuse to play games in higher resolution. So I sold my GPU for 45 euros on eBay and got a GeForce GTX 960 for 170 euros, also on eBay. I also bought another SSD and added an additional 8GB of RAM.
+I made a small upgrade at the end of 2015. I was working on my master thesis and needed a more powerful GPU to train [convolutional neural networks](https://www.tensorflow.org/tutorials/images/cnn). Also I wanted an excuse to play games in higher resolution. So I sold my GPU for 45 euros on eBay and got a GeForce GTX 960 for 170 euros, also on eBay. I also bought another SSD and added an additional 8GB of RAM.
 
 | Part | Date of Purchase | Price
 | :--- | :--------------- | ----:
@@ -33,8 +38,9 @@ At the end of 2015 I was working on my master thesis and needed a more powerful 
 | **SSD**: Samsung EVO 850 250gb | 2015-12-16 | €77.89
 | Total |  | €294.29
 
-* 250gb SSD, with Windows 10.
-* 60gb SSD, with Debian.
+It's actually incredible that my HDD survived all those years. According to a [study from Backblaze](https://www.backblaze.com/blog/how-long-do-disk-drives-last/)
+
+{{< figure src="/images/hdd-survival-chart.webp" caption="a.">}}
 
 I have a strong suspicion it's actually my 250GB SSD that is dying as I get no crash on Linux. It's actually quite surprising that my HDD is still going strong after such a long time. I tried some debugging (what's the right word?) tools for SSD but actually none found an issue. Perhaps it's not the SSD afterall.
 
