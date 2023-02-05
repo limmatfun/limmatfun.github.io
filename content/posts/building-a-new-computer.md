@@ -86,6 +86,8 @@ It was a surprisingly fun process to assemble the PC. There was this feeling of 
 
 I'm not sure if the order I installed the pieces was optimal, but I think it was close to it. Perhaps the SSD could have been installed after the cooler, but I think it wouldn't have made a big difference.
 
+{{< figure src="/images/computer_size_difference.jpg" width="60%" caption="The size difference is pretty massive. From 48.4 x 20.2 x 42.6cm (41.6L) to 15.5 x 15.5 x 8.0cm (1.9L), a 95% volume reduction!">}}
+
 So far I've been really happy with the PC. It boots extremely fast and the cooler is incredibly quiet, which is really pleasant to me,  as my old PC would sometimes out of the blue get relatively loud. I hope this one also lasts 10+ years!
 
 ### Diggresion: New tools for the blog
