@@ -136,3 +136,30 @@ table tbody tr:nth-of-type(odd) {
 table tbody tr:nth-of-type(even) {
     background-color: rgba(0, 0, 0, 0.2);
 }
+
+.image-gallery {
+    overflow: auto; margin-left: -1%!important;
+}
+.image-gallery li {
+    float: left; 
+    display: block; 
+    margin: 0 0 1% 1%; 
+    width: 19%;
+}
+
+.image-gallery li a {
+    text-align: center;
+}
+.image-gallery li a span {
+    display: block; 
+    text-overflow: ellipsis; 
+    overflow: hidden; 
+    white-space: nowrap; 
+    padding: 3px 0;
+    margin-top: -10px;
+}
+.image-gallery li a img {
+    width: 100%; 
+    display: block;
+    box-shadow: 5px 5px 5px rgb(68 68 68 / 60%);
+}

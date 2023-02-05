@@ -1,0 +1,8 @@
+{{- $image := resources.Get (string (.Get "src")) -}}
+{{- $imagetitle := .Get "title" -}}
+<li>
+  <a href="{{ ($image.Fill "1600x1600 q50").Permalink }}" title="{{ $imagetitle }}" class="lightbox-image">
+    <img src="{{ ($image.Fill "300x300 q50").Permalink }}" alt="{{ $imagetitle }}" title="{{ $imagetitle }}">
+    <span>{{ .Get "short" }}</span>
+  </a>
+</li>
