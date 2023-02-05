@@ -2,9 +2,7 @@
   {{ if .Get "title" }}
   <h3 class="title">{{ .Get "title" }}</h3>
   {{ end }}
-  {{ if .Get "description" }}
   <p class="description">{{ .Get "description" }} Click the images below for a description of each.</p>
-  {{ end }}
   <ul>
     {{ .Inner }}
   </ul>
