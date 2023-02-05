@@ -138,12 +138,31 @@ table tbody tr:nth-of-type(even) {
 }
 
 .image-gallery {
-    overflow: auto; margin-left: -1%!important;
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 2px solid #54baed;
+    border-radius: 7px;
+    padding: 0 8px;
 }
+
+.image-gallery h3 {
+    margin: 10px 0 0 0;
+}
+
+.image-gallery p {
+    margin: 0;
+}
+
+.image-gallery ul {
+    overflow: auto; 
+    margin-left: -1%!important;
+    padding-left: 0;
+    margin: 0;
+}
+
 .image-gallery li {
     float: left; 
     display: block; 
-    margin: 0 0 1% 1%; 
+    margin: 0 0 0 1% !important; 
     width: 19%;
 }
 
