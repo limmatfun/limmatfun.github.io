@@ -48,3 +48,9 @@ weight = 4
 # Enable tags.
 [taxonomies]
    tag = "tags"
+
+[server]
+[[server.headers]]
+  for = '/**'
+  [server.headers.values]
+    Access-Control-Allow-Origin = "*"
