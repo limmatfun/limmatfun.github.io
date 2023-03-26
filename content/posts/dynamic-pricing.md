@@ -1,7 +1,7 @@
 ---
 title: "Dynamic pricing"
 date: 2023-03-25T00:45:28+02:00
-draft: false
+draft: true
 limmat_temperature: 8.8
 tags: ["Tech"]
 ---
