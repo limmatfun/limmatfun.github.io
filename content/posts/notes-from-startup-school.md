@@ -1,23 +1,21 @@
 ---
-title: "Lessons from Startup School"
+title: "A side project with a twist & Startup School"
 date: 2023-03-26T00:45:28+02:00
 draft: true
 limmat_temperature: 8.8
-tags: ["Tech"]
+tags: ["Tech", "Personal"]
 ---
-## plan for hotel
-try to create a fake hotel using current software
-what kind of problems do you have?
-how well are they solved?
-check how booking.com dynamic pricing works
+The first thing I posted on this blog is how [I miss working on side projects](/posts/image-blogging-in-2022) and the excitement that brings. When I was a teenager I was programming websites and was really motivated and thrilled by seeing the number of users going up on those websites. I created several of them, including a website for emulator & roms, multiple ones in the web hosting directory space and also a few related to games. I also made a text-based website game and even programmed a 2D online game, heavily inspired by [Graal Online](https://www.graalonline.com/). The text-based website game was probably the most successful of all projects and it was very fulfilling to watch the number of users growing on it. I don't know if I'm romanticizing this too much but I really miss that feeling. 
 
-Try to understand size of market
-scrape booking.com in brazil? check which hotels always have the same price, try different regions
+I think because most of the projects I made during my childhood were so influenced by games, most of my side project ideas now also mostly involve ideas relating to games. Lately however I've been growing increasingly interested in a different kind of side project. What if instead of just being another side project, what if it was actually something that could develop into a small side business? Even if it fails, it will still have been a cool experiment and I'm sure there's much to learn from it. So before jumping head first into this, I decided to start reading up on [Startup School](https://startupschool.org).
 
-try to find hotels that would talk to you
+## Startup School
+Startup School is a program by [Y Combinator](https://www.ycombinator.com/).
+
+To be clear, my ambition is not to create a startup.
 
 
-## Should you start a Startup?
+#### Should you start a Startup?
 This is a lesson from Harj Taggar on [Should you start a Startup](https://www.ycombinator.com/library/GV-should-you-start-a-startup)?
 
 When you're working on a startup, you have to put in blood, sweat, and tears to convince even a single user to care about trying your product, let alone convincing the first 10 or a hundred. You have to push through a lot of rejection to get there, and because this is your startup all of that rejection feels very personal in a way it doesn't, when you're working at a fan company, building a product for someone else. It takes a lot of resilience to make it through this initial struggle to get your early users, and that's the quality I think is most important for startup founders to have.
@@ -145,3 +143,16 @@ So, the first is the problem. So startup idea is composed of three parts. The fi
 
 You go, like, I'm going to do whatever it takes to solve people, users, customers issues. The last one's a little tricky. It's what is the insight? What's the reason why this solution is going to work? And this is where a lot of companies sort of get tricked up because it's really about, like, what is your company's unfair advantage, right?
 
+
+## Next steps
+And I actually already do have a first idea of what I think could potentially be worth trying.
+
+try to create a fake hotel using current software
+what kind of problems do you have?
+how well are they solved?
+check how booking.com dynamic pricing works
+
+Try to understand size of market
+scrape booking.com in brazil? check which hotels always have the same price, try different regions
+
+try to find hotels that would talk to you
