@@ -1,24 +1,29 @@
 ---
 title: "A side project with a twist & Startup School"
-date: 2023-03-26T00:45:28+02:00
+date: 2023-04-02T00:45:28+02:00
 draft: true
 limmat_temperature: 8.8
 tags: ["Tech", "Personal"]
 ---
 The first thing I posted on this blog is how [I miss working on side projects](/posts/image-blogging-in-2022) and the excitement that brings. When I was a teenager I was programming websites and was really motivated and thrilled by seeing the number of users going up on those websites. I created several of them, including a website for emulator & roms, multiple ones in the web hosting directory space and also a few related to games. I also made a text-based website game and even programmed a 2D online game, heavily inspired by [Graal Online](https://www.graalonline.com/). The text-based website game was probably the most successful of all projects and it was very fulfilling to watch the number of users growing on it. I don't know if I'm romanticizing this too much but I really miss that feeling. 
 
+{{< figure src="/images/underio.png"  width="80%" caption="My text-based online RPG with over 1000 registered players! Thank you Wayback Machine for this [snapshot from April 2007](https://web.archive.org/web/20070410024228/http://www.underio.com/). Unfortunately many of the images, including the logo, don't seem to have made it into Wayback's index.">}}
+
 I think because most of the projects I made during my childhood were so influenced by games, most of my side project ideas now also mostly involve ideas relating to games. Lately however I've been growing increasingly interested in a different kind of side project. What if instead of just being another side project, what if it was actually something that could develop into a small side business? Even if it fails, it will still have been a cool experiment and I'm sure there's much to learn from it. So before jumping head first into this, I decided to start reading up on [Startup School](https://startupschool.org).
 
 ## Startup School
-Startup School is a program by [Y Combinator](https://www.ycombinator.com/).
+Startup School is a program started in 2017 by [Y Combinator](https://www.ycombinator.com/), which is perhaps the most successful startup accelerator in Sillicon Valley. The curriculum consists of a mix of videos and also text articles. It covers a very wide range of topics: helping you decide if founding a startup makes sense for you, how to get ideas, planning an MVP, how to talk to users, splitting equity, hiring, pricing your product and raising money.
 
-To be clear, my ambition is not to create a startup.
+I've now completed a few of the lessons and one of the things I realized is that what I want to do is not really a startup. The startup definition that Y Combinator uses are companies that are designed to grow fast, 100x a year. That involves a lot of blood, sweat and tears and I'm not really ready for that. What I'd like is to start small and most of all, I don't mind at all if it only grows slowly. I'd be already thrilled if I get any paying user at all. 
 
+Below I'll share a short summary of the ones I thought were most interesting and helpful for me, from the perspective of what matters for a small side business.
 
 #### Should you start a Startup?
-This is a lesson from Harj Taggar on [Should you start a Startup](https://www.ycombinator.com/library/GV-should-you-start-a-startup)?
+I started with a lesson from Harj Taggar on [Should You Start a Startup](https://www.ycombinator.com/library/GV-should-you-start-a-startup)?
 
-When you're working on a startup, you have to put in blood, sweat, and tears to convince even a single user to care about trying your product, let alone convincing the first 10 or a hundred. You have to push through a lot of rejection to get there, and because this is your startup all of that rejection feels very personal in a way it doesn't, when you're working at a fan company, building a product for someone else. It takes a lot of resilience to make it through this initial struggle to get your early users, and that's the quality I think is most important for startup founders to have.
+{{< youtube BUE-icVYRFU >}}
+
+> When you're working on a startup, you have to put in blood, sweat, and tears to convince even a single user to care about trying your product, let alone convincing the first 10 or a hundred. You have to push through a lot of rejection to get there, and because this is your startup all of that rejection feels very personal in a way it doesn't, when you're working at a fan company, building a product for someone else. It takes a lot of resilience to make it through this initial struggle to get your early users, and that's the quality I think is most important for startup founders to have.
 
 "I also think that simply being curious about what it's like to found a startup is a fine initial motivation to start one. "
 
@@ -29,10 +34,6 @@ I'd recommend you start experimenting with turning these ideas into side project
 My main advice to you would be to think less about how well your side projects are going, and think more about how much you're enjoying the process of thinking up ideas and turning them into something real. Are you learning new things and finding yourself energized? Contrast this feeling with your day job. If you find your job is draining, but you have energy to work on your side projects on evenings and weekends, that's a sign it may be time to quit and work on your own ideas. Pay particular attention to how much you enjoy working with your side project collaborators. If you enjoy working with them and you both want to be startup founders, recognize how rare that is. Having a great co-founder who wants to do a startup is a fantastic reason to quit and start one. To finish, my advice is: one, don't worry too much about your initial motivations or reasons to start a company. Those can change over time. Simply being curious about the experience of starting a startup is enough to get going.
 
 If you don't yet have an idea or co-founder, start looking around for smart people to talk about ideas with and launch some side projects with. Actually launch those side projects, however small, to get the experience of turning ideas into reality.
-
-## Why to Not Not Start a Startup
-[Why to Not Not Start a Startup](http://www.paulgraham.com/notnot.html)
-not super useful
 
 ## How to plan an MVP
 [How to plan an MVP](https://www.ycombinator.com/library/6f-how-to-plan-an-mvp)
@@ -53,13 +54,7 @@ In most cases, most people should be building a very lean MVP. So by that, we me
 
 The second, extremely limited functionality. You need to condense down what your user needs, what your initial user needs, to a very simple set of things. A lot of times, founders wanna address all of their users' problems and all of their potential users, when in reality, they should just focus on a small set of initial users and their highest-order problems, and then ignore the rest until later.
 
-
 The next one is cut your spec. A week into your kind of three week sprint, you probably realized that you added too many things to your spec, and you were not gonna make your deadline. That's okay. Just cut the stuff that clearly isn't important. And if there's no non-important things, start cutting important things. Most of the goal here is just to get anything out in the world. Once you get anything out in the world, the momentum to keep anything going is extremely strong. Once you have any, if you don't have anything out in the world, it's very easy to just delay, delay, delay, delay. And then last, don't fall in love with your MVP.
-
-## How to succeed with a Startup
-
-[How to succeed with a Startup](https://www.ycombinator.com/library/89-how-to-succeed-with-a-startup-sus-2018)
-not so useful
 
 ## How to talk to users
 [How to talk to users](https://www.ycombinator.com/library/6g-how-to-talk-to-users)
@@ -96,7 +91,6 @@ The last stage before product-market fit that can benefit from user interviews i
 
 The second main type of bad data that you may encounter is fluff. These are hypotheticals. These are generic statements. Whenever you're in the middle of a user interview and you start getting onto this hypothetical, you know, "Oh, here's what the product may look like in the future." Try to steer it back to specifics. Again, you're conducting a user interview, not to pitch your product but to learn about problems or issues that the user has faced in their past so that you can improve it in the future. That's it. That was meant to be like a quick short dive into "Talking To Users."
 
-
 ## How to Get and Evaluate Startup Ideas
 [How to Get and Evaluate Startup Ideas (Jared Friedman)](https://www.youtube.com/watch?v=Th8JoIan4dg)
 four mistakes
@@ -131,8 +125,6 @@ questions to identify a good startup idea:
 		- big industries seem broken => right for disruption
 		- find cofounder in yc
 
-
-
 ## How to Evaluate Startup Ideas (Kevin Hale)
 [How to Evaluate Startup Ideas (Kevin Hale)](https://www.ycombinator.com/library/6e-how-to-evaluate-startup-ideas)
 A lot of people, for instance, like I had no idea or like I have too many ideas that they don't know which one to pursue because of...main reason why a lot of people are only able to work on their startup sometimes part-time. Yes, they might be stuck without resources but they didn't have conviction. They didn't know like, oh, what would I have to believe in order to say like I want to quit my job?
@@ -142,7 +134,6 @@ So for us at YC, the definition of a startup is a company that is designed or cr
 So, the first is the problem. So startup idea is composed of three parts. The first part is a problem and it's basically the initial conditions. You have to explain to me, like, what is the setting for this company that allows it to be able to grow quickly. The second is the solution. This is basically what is the experiment that you're basically running within those conditions for it to grow really quickly? And the third is, what's your insight? So what's your explanation why the thing that you're going to try, your experiment is going to end up being successful? Those are the three components that I always try to figure out when I'm listening to someone's pitch. Here's a tip for talking about the problem or to know whether your problem, your initial conditions, are correct.
 
 You go, like, I'm going to do whatever it takes to solve people, users, customers issues. The last one's a little tricky. It's what is the insight? What's the reason why this solution is going to work? And this is where a lot of companies sort of get tricked up because it's really about, like, what is your company's unfair advantage, right?
-
 
 ## Next steps
 And I actually already do have a first idea of what I think could potentially be worth trying.
