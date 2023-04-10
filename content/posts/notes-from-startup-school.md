@@ -18,22 +18,20 @@ I've now completed a few of the lessons and one of the things I realized is that
 
 Below I'll share a short summary of the ones I thought were most interesting and helpful for me, from the perspective of what matters for a small side business.
 
-#### Should you start a Startup?
+#### Should You Start a Startup?
 I started with a lesson from Harj Taggar on [Should You Start a Startup](https://www.ycombinator.com/library/GV-should-you-start-a-startup)?
 
 {{< youtube BUE-icVYRFU >}}
 
-> When you're working on a startup, you have to put in blood, sweat, and tears to convince even a single user to care about trying your product, let alone convincing the first 10 or a hundred. You have to push through a lot of rejection to get there, and because this is your startup all of that rejection feels very personal in a way it doesn't, when you're working at a fan company, building a product for someone else. It takes a lot of resilience to make it through this initial struggle to get your early users, and that's the quality I think is most important for startup founders to have.
+Harj mentions how in the beginning your ideas will be more like a gut feeling, blurry and unclear. You'll go through several versions of it before it becomes a potential project. To speed up this process he suggests discussing the idea with other smart people.
 
-"I also think that simply being curious about what it's like to found a startup is a fine initial motivation to start one. "
+He then moves to what makes a good founder. The main quality that you need to bring is resilience. It's an uphill battle from the beginning, you need to convince users to use your product and push through a lot of rejection to get there. You may have built the wrong product and need to pivot it to something else. So how can you know if you're resilient enough? Unfortunately he seems to have no good answer to this question. From his experience confidence, motivation, talent are not good proxies. Instead he suggests introspecting too much and gives some practical advice:
 
-your ideas will start out being vague and fuzzy, more like a hunch or an impulse than a clearly formed idea, and you'll go through seven iterations of fleshing it out into something more tangible and concrete. Having someone to talk through that initial idea or impulse with and debate and discuss is important, and the best person to do that with is your co-founder. I find my best ideas come to me during conversations with smart people, so I'd start by thinking about who do you know that you enjoy talking about ideas with?
+> I also think that simply being curious about what it's like to found a startup is a fine initial motivation to start one. Actually doing a startup is the only way to know for sure if you'll enjoy it.  If you are curious about what it'd be like to start a company, start by asking yourself, what do I have to lose? Figure out what the worst case scenario looks like if you started a startup and decide if you can live with that.
 
-I'd recommend you start experimenting with turning these ideas into side projects. At some point during these conversations, you'll eventually say something like,' Huh, like, it'd be cool if someone built X', and that's the moment to stop and think about how you could be the one to build X. Is there a simple first version you could build over a weekend? Or can you find other people who might be users and pitch them on the idea to see how they react? Keep pulling on this thread until you've come up with a plan to turn this idea into something real, however small it is. Right now, you're not trying to launch the next unicorn. You're just getting used to the experience of turning ideas into reality and experiencing the thrill of launching something.
+The most interesting part to me was the suggestion to quickly turn the ideas into side projects. **Build a first version over a weekend, pitch it to users and see how they react.** Repeat this until the project takes shape, however small it is. The objective is not to create the next unicorn, but to get **the experience of turning ideas into reality and feeling the thrill of launching something**. I really love this lightweight approach to side projects!
 
-My main advice to you would be to think less about how well your side projects are going, and think more about how much you're enjoying the process of thinking up ideas and turning them into something real. Are you learning new things and finding yourself energized? Contrast this feeling with your day job. If you find your job is draining, but you have energy to work on your side projects on evenings and weekends, that's a sign it may be time to quit and work on your own ideas. Pay particular attention to how much you enjoy working with your side project collaborators. If you enjoy working with them and you both want to be startup founders, recognize how rare that is. Having a great co-founder who wants to do a startup is a fantastic reason to quit and start one. To finish, my advice is: one, don't worry too much about your initial motivations or reasons to start a company. Those can change over time. Simply being curious about the experience of starting a startup is enough to get going.
-
-If you don't yet have an idea or co-founder, start looking around for smart people to talk about ideas with and launch some side projects with. Actually launch those side projects, however small, to get the experience of turning ideas into reality.
+Regarding if or when you should quit your job to work on a startup, Harj recommends to think less about how the side projects are going and more about if you're enjoying this process of making ideas into reality. If this energizes you and feels different than your day job, it may be a sign that it's time to quit.
 
 ## How to plan an MVP
 [How to plan an MVP](https://www.ycombinator.com/library/6f-how-to-plan-an-mvp)
@@ -90,6 +88,9 @@ During user interviews at this stage, I love to ask questions that extract numer
 The last stage before product-market fit that can benefit from user interviews is actually the process of iterating towards product-market fit.
 
 The second main type of bad data that you may encounter is fluff. These are hypotheticals. These are generic statements. Whenever you're in the middle of a user interview and you start getting onto this hypothetical, you know, "Oh, here's what the product may look like in the future." Try to steer it back to specifics. Again, you're conducting a user interview, not to pitch your product but to learn about problems or issues that the user has faced in their past so that you can improve it in the future. That's it. That was meant to be like a quick short dive into "Talking To Users."
+
+## How to Get your First Customers
+[How to Get your First Customers](https://www.youtube.com/watch?v=hyYCn_kAngI)
 
 ## How to Get and Evaluate Startup Ideas
 [How to Get and Evaluate Startup Ideas (Jared Friedman)](https://www.youtube.com/watch?v=Th8JoIan4dg)
