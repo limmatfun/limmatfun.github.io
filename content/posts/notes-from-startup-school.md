@@ -16,7 +16,12 @@ Startup School is a program started in 2017 by [Y Combinator](https://www.ycombi
 
 I've now completed a few of the lessons and one of the things I realized is that what I want to do is not really a startup. The startup definition that Y Combinator uses are companies that are designed to grow fast, 100x a year. That involves a lot of blood, sweat and tears and I'm not really ready for that. What I'd like is to start small and most of all, I don't mind at all if it only grows slowly. I'd be already thrilled if I get any paying user at all. 
 
-Below I'll share a short summary of the ones I thought were most interesting and helpful for me, from the perspective of what matters for a small side business.
+Below I'll share a short summary of the ones I thought were most interesting and helpful for me, from the perspective of what matters for a small side business:
+1. Should you start a startup?
+2. How to get and evaluate startup ideas
+3. Planning the initial product
+4. How to get your first customers
+5. How to talk to users
 
 #### Should You Start a Startup?
 I started with a lesson from Harj Taggar on [Should You Start a Startup](https://www.ycombinator.com/library/GV-should-you-start-a-startup)?
@@ -34,11 +39,11 @@ The most interesting part to me was the suggestion to quickly turn the ideas int
 Regarding if or when you should quit your job to work on a startup, Harj recommends to think less about how the side projects are going and more about if you're enjoying this process of making ideas into reality. If this energizes you and feels different than your day job, it may be a sign that it's time to quit.
 
 ## How to plan an MVP
-[How to plan an MVP](https://www.ycombinator.com/library/6f-how-to-plan-an-mvp)
+{{< youtube 1hHMwLxN6EM >}}
 
-When you think about an MVP, you should think about something ridiculously simple. This is the first thing you can give to the very first set of users you wanna target, in order to see if you can deliver any value at all to them. That's all it is. It's extremely simple.
+I then read [How to plan an MVP](https://www.ycombinator.com/library/6f-how-to-plan-an-mvp) from Michael Seibel.
 
-What I will tell you is that it is helpful to talk to some users before you decide to build your MVP.
+Michael again advocates for a very lightweight process, your minimum viable product (MVP) should not involve deep user research nor long industry experience. It should be as basic as possible, the very first thing you can present to the users you are targetting to understand if it's useful for them. It can also be helpful to talk to users before starting any development.
 
 Okay. So, the goal of a prelaunch startup is extremely simple. Step one, launch quickly. This is something that's been part of the YC ethos from the very beginning, and it's been great advice for 10 years, and it continues to be great advice. If you can walk away from one thing from this presentation, it's launch something bad, quickly. 
 
