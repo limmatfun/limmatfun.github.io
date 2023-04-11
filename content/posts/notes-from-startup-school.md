@@ -16,7 +16,7 @@ Startup School is a program started in 2017 by [Y Combinator](https://www.ycombi
 
 I've now completed a few of the lessons and one of the things I realized is that what I want to do is not really a startup. The startup definition that Y Combinator uses are companies that are designed to grow fast, 100x a year. That involves a lot of blood, sweat and tears and I'm not really ready for that. What I'd like is to start small and most of all, I don't mind at all if it only grows slowly. I'd be already thrilled if I get any paying user at all. 
 
-Below I'll share a short summary of the ones I thought were most interesting and helpful for me, from the perspective of what matters for a small side business:
+Below I'll share a short summary of the ones I thought were most interesting and helpful for me, from the perspective of what matters for a small side business. I'll link to text transcripts instead of videos whenever possible. I've organized them in the following order:
 1. Should you start a startup?
 2. How to get and evaluate startup ideas
 3. Planning the initial product
@@ -38,26 +38,67 @@ The most interesting part to me was the suggestion to quickly turn the ideas int
 
 Regarding if or when you should quit your job to work on a startup, Harj recommends to think less about how the side projects are going and more about if you're enjoying this process of making ideas into reality. If this energizes you and feels different than your day job, it may be a sign that it's time to quit.
 
-## How to plan an MVP
-{{< youtube 1hHMwLxN6EM >}}
+## How to Get and Evaluate Startup Ideas
+In this section I'll be mixing the thoughts from both
+[Jared Friedman]((https://www.youtube.com/watch?v=Th8JoIan4dg)) and [Kevin Hale](https://www.ycombinator.com/library/6e-how-to-evaluate-startup-ideas) on how to get and evaluate startup ideas.
 
+{{< youtube Th8JoIan4dg >}}
+
+four mistakes
+1. not solving a real problem (solution in search of a problem)
+2. tarpit ideas: common ideas that are much harder than they seem
+3. not evaluating the idea, going for the very first idea without thinking if it would make a good business
+4. waiting for the perfect idea. better is to be in the middle, ideal: somewhere that is a good starting point: enough interesting qualitites that can morph to the right idea.
+
+questions to identify a good startup idea: 
+ founder market fit? - team has experience in the area
+	- how big is market? big now or small now but rapidly growing 
+	- how acute is this problem? Ex. Brex
+	- **do you have competition? competition is good.**
+    most founders think that if you have competition this is bad. no, this is an indication that you're solving a real problem. if there's no competition it's either a really hard problem or no one has this problem. but if you're going an entrenched  competition you need a new insight.
+	- do you want this? do we know personally someone wanting this? 
+	- only recently possible or recently necessary? Ex.Checkr
+	- are there good proxies for this business? a large company that does something similar, but not direct competitor.
+	- is this an idea u want to work on for years? often, idea morphs, could also be boring. as it becomes succesful it tends to grow on you over time
+	- is this a scalable business? 
+	- is this a good idea space? a class of closely related ideas. e.g. tools for managing hotels. upselling, revenue mangement, etc. it also means you have more adjacent ideas that you can drift into.
+    
+    how to come up with new ideas?
+	- made up idea possible, btu not best way. Organic is better.
+		- long game - become expert, work at startup, just build things (thought not startup idea)
+	- 7 recipes
+		- start with team expertise, idea taking advantage of that expertise (Rezi)- interdomain advantage
+		- start with problem encountered (Ex, Vetcove)
+		- things you personally wish existsed (Ex, Doordash) - beware of tarpit
+		- things that have changed recently Ex. Covid => gathertown
+		- new variants of successful companies Ex. nuvo cargo
+		- talk to people and ask what problems (first idea space), Ex. AtoB
+		- big industries seem broken => right for disruption
+		- find cofounder in yc
+
+## How to Evaluate Startup Ideas (Kevin Hale)
+A lot of people, for instance, like I had no idea or like I have too many ideas that they don't know which one to pursue because of...main reason why a lot of people are only able to work on their startup sometimes part-time. Yes, they might be stuck without resources but they didn't have conviction. They didn't know like, oh, what would I have to believe in order to say like I want to quit my job?
+
+So for us at YC, the definition of a startup is a company that is designed or created to try to grow very quickly. So if you're not trying to build a company that grows very, very fast, then you're just building a normal company, it's a small business. And there's nothing wrong with that but these companies are the ones that investors are interested in.
+
+So, the first is the problem. So startup idea is composed of three parts. The first part is a problem and it's basically the initial conditions. You have to explain to me, like, what is the setting for this company that allows it to be able to grow quickly. The second is the solution. This is basically what is the experiment that you're basically running within those conditions for it to grow really quickly? And the third is, what's your insight? So what's your explanation why the thing that you're going to try, your experiment is going to end up being successful? Those are the three components that I always try to figure out when I'm listening to someone's pitch. Here's a tip for talking about the problem or to know whether your problem, your initial conditions, are correct.
+
+You go, like, I'm going to do whatever it takes to solve people, users, customers issues. The last one's a little tricky. It's what is the insight? What's the reason why this solution is going to work? And this is where a lot of companies sort of get tricked up because it's really about, like, what is your company's unfair advantage, right?
+
+## How to plan an MVP
 I then read [How to plan an MVP](https://www.ycombinator.com/library/6f-how-to-plan-an-mvp) from Michael Seibel.
 
-Michael again advocates for a very lightweight process, your minimum viable product (MVP) should not involve deep user research nor long industry experience. It should be as basic as possible, the very first thing you can present to the users you are targetting to understand if it's useful for them. It can also be helpful to talk to users before starting any development.
+{{< youtube 1hHMwLxN6EM >}}
 
-Okay. So, the goal of a prelaunch startup is extremely simple. Step one, launch quickly. This is something that's been part of the YC ethos from the very beginning, and it's been great advice for 10 years, and it continues to be great advice. If you can walk away from one thing from this presentation, it's launch something bad, quickly. 
+Michael again advocates for a very lightweight process, your minimum viable product (MVP) should not involve deep user research nor require long industry experience in the field your project is in. It should be as basic as possible, the very first thing you can present to users to understand if it's useful for them. It can also be helpful to talk to users before starting any development.
 
-The second thing that an early stage startup needs to do is get some initial customers. Get anyone using your product. You don't have to have a vision of how you get everyone using it, but just anyone interacting and seeing if they get value out of the product.
+You should launch quickly, even if it's bad. Get initial users interacting with it as soon as possible. You need to understand if anyone is getting value out of it. Talk to your users and get feedback. Resist the temptation to thinking you know what you have to build and waiting until it's done to show it to users. You may end up building something customers don't want at all, so get feedback early.
 
-The next one is, talk to your users, any of them, after you've launched this MVP, and get feedback. This is one that's also extremely common mistake, because most founders in their heads have a idea of what they wanna build. And so they kind of have this weird feeling that if I haven't built the full thing yet, getting feedback on the shitty initial thing is kind of useless. 
+> Hold the problem you're solving tightly, hold the customer tightly, hold the solution you're building loosely (redesign/rebuild if needed).
 
-it might turn out the full thing that you wanna build isn't what your customers want at all. So, I have this saying: Hold the problem you're solving tightly, hold the customer tightly, hold the solution you're building loosely.
+What I really like here is the fast approach. You should opt for a very lean MVP, built in the order of weeks not months. Michael mentions that for software products it's even easier, you can start with just a landing page and a spreadsheet. Your functionality should be restricted to the absolute minimum and avoid addressing all of the users' problems at once. Cut your spec and cut even important things if necessary.
 
-In most cases, most people should be building a very lean MVP. So by that, we mean you should be able to build it fast, in weeks, not months. This can either involve software, or honestly, we see startups just start with a landing page and a spreadsheet. But most startups can start very, very fast.
-
-The second, extremely limited functionality. You need to condense down what your user needs, what your initial user needs, to a very simple set of things. A lot of times, founders wanna address all of their users' problems and all of their potential users, when in reality, they should just focus on a small set of initial users and their highest-order problems, and then ignore the rest until later.
-
-The next one is cut your spec. A week into your kind of three week sprint, you probably realized that you added too many things to your spec, and you were not gonna make your deadline. That's okay. Just cut the stuff that clearly isn't important. And if there's no non-important things, start cutting important things. Most of the goal here is just to get anything out in the world. Once you get anything out in the world, the momentum to keep anything going is extremely strong. Once you have any, if you don't have anything out in the world, it's very easy to just delay, delay, delay, delay. And then last, don't fall in love with your MVP.
+>The goal here is just to get anything out in the world. Once you get anything out in the world, the momentum to keep anything going is extremely strong.
 
 ## How to talk to users
 [How to talk to users](https://www.ycombinator.com/library/6g-how-to-talk-to-users)
@@ -127,50 +168,6 @@ Gustaf mentions that it's very important to understand and keep track of the con
 
 Using the numbers above, to get your first 10 customers you'd need to send 2500 e-mails! It's normal to face a lot of rejection. It's important to make sure you're reaching enough people, as otherwise you may not have enough data to understand all your conversion rates. Sales is a numbers game.
 
-## How to Get and Evaluate Startup Ideas
-[How to Get and Evaluate Startup Ideas (Jared Friedman)](https://www.youtube.com/watch?v=Th8JoIan4dg)
-four mistakes
-1. not solving a real problem (solution in search of a problem)
-2. tarpit ideas: common ideas that are much harder than they seem
-3. not evaluating the idea, going for the very first idea without thinking if it would make a good business
-4. waiting for the perfect idea. better is to be in the middle, ideal: somewhere that is a good starting point: enough interesting qualitites that can morph to the right idea.
-
-questions to identify a good startup idea: 
- founder market fit? - team has experience in the area
-	- how big is market? big now or small now but rapidly growing 
-	- how acute is this problem? Ex. Brex
-	- **do you have competition? competition is good.**
-    most founders think that if you have competition this is bad. no, this is an indication that you're solving a real problem. if there's no competition it's either a really hard problem or no one has this problem. but if you're going an entrenched  competition you need a new insight.
-	- do you want this? do we know personally someone wanting this? 
-	- only recently possible or recently necessary? Ex.Checkr
-	- are there good proxies for this business? a large company that does something similar, but not direct competitor.
-	- is this an idea u want to work on for years? often, idea morphs, could also be boring. as it becomes succesful it tends to grow on you over time
-	- is this a scalable business? 
-	- is this a good idea space? a class of closely related ideas. e.g. tools for managing hotels. upselling, revenue mangement, etc. it also means you have more adjacent ideas that you can drift into.
-    
-    how to come up with new ideas?
-	- made up idea possible, btu not best way. Organic is better.
-		- long game - become expert, work at startup, just build things (thought not startup idea)
-	- 7 recipes
-		- start with team expertise, idea taking advantage of that expertise (Rezi)- interdomain advantage
-		- start with problem encountered (Ex, Vetcove)
-		- things you personally wish existsed (Ex, Doordash) - beware of tarpit
-		- things that have changed recently Ex. Covid => gathertown
-		- new variants of successful companies Ex. nuvo cargo
-		- talk to people and ask what problems (first idea space), Ex. AtoB
-		- big industries seem broken => right for disruption
-		- find cofounder in yc
-
-## How to Evaluate Startup Ideas (Kevin Hale)
-[How to Evaluate Startup Ideas (Kevin Hale)](https://www.ycombinator.com/library/6e-how-to-evaluate-startup-ideas)
-A lot of people, for instance, like I had no idea or like I have too many ideas that they don't know which one to pursue because of...main reason why a lot of people are only able to work on their startup sometimes part-time. Yes, they might be stuck without resources but they didn't have conviction. They didn't know like, oh, what would I have to believe in order to say like I want to quit my job?
-
-So for us at YC, the definition of a startup is a company that is designed or created to try to grow very quickly. So if you're not trying to build a company that grows very, very fast, then you're just building a normal company, it's a small business. And there's nothing wrong with that but these companies are the ones that investors are interested in.
-
-So, the first is the problem. So startup idea is composed of three parts. The first part is a problem and it's basically the initial conditions. You have to explain to me, like, what is the setting for this company that allows it to be able to grow quickly. The second is the solution. This is basically what is the experiment that you're basically running within those conditions for it to grow really quickly? And the third is, what's your insight? So what's your explanation why the thing that you're going to try, your experiment is going to end up being successful? Those are the three components that I always try to figure out when I'm listening to someone's pitch. Here's a tip for talking about the problem or to know whether your problem, your initial conditions, are correct.
-
-You go, like, I'm going to do whatever it takes to solve people, users, customers issues. The last one's a little tricky. It's what is the insight? What's the reason why this solution is going to work? And this is where a lot of companies sort of get tricked up because it's really about, like, what is your company's unfair advantage, right?
-
 ## Next steps
 And I actually already do have a first idea of what I think could potentially be worth trying.
 
@@ -180,6 +177,7 @@ how well are they solved?
 check how booking.com dynamic pricing works
 
 Try to understand size of market
-scrape booking.com in brazil? check which hotels always have the same price, try different regions
+scrape booking.com in brazil? check which hotels always have the same price, try different regions. which hotels are new and maybe need help with pricing?
+potential pivoting: upselling
 
 try to find hotels that would talk to you
