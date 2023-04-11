@@ -94,8 +94,38 @@ The last stage before product-market fit that can benefit from user interviews i
 
 The second main type of bad data that you may encounter is fluff. These are hypotheticals. These are generic statements. Whenever you're in the middle of a user interview and you start getting onto this hypothetical, you know, "Oh, here's what the product may look like in the future." Try to steer it back to specifics. Again, you're conducting a user interview, not to pitch your product but to learn about problems or issues that the user has faced in their past so that you can improve it in the future. That's it. That was meant to be like a quick short dive into "Talking To Users."
 
-## How to Get your First Customers
-[How to Get your First Customers](https://www.youtube.com/watch?v=hyYCn_kAngI)
+## How to Get Your First Customers
+One of my favorite video lessons was [How to Get Your First Customers](https://www.youtube.com/watch?v=hyYCn_kAngI) from Gustaf Alströmer.
+
+{{< youtube hyYCn_kAngI >}}
+
+The lesson is largely based on Paul Graham's post on [Do Things That Don't Scale](http://paulgraham.com/ds.html). Most technical people want to avoid doing marketing or sales themselves, however Gustaf advocates that it should be the person building the project the one doing the calls, as you are the expert in the product and the process of making a sale forces you to know your users. To recruit your first users you need to really go after them and you can't just wait for them to come to you. Specially the first users tend to be the most difficult to find and you need to do things that won't scale in the future. What does this mean concretely? This means spending a lot of time thinking about how to find the potential customers and then on pursuing them: cold emailing, phone calls to demo the product and trying to delight them. Paul Graham even mentions a startup that was sending each new user a hand-written thank you note.
+
+> Your first users should feel that signing up with you was one of the best choices they ever made. The feedback you get from engaging directly with your earliest users will be the best you ever get. [...] you can and should give users an insanely great experience with an early, incomplete, buggy product, if you make up the difference with attentiveness.
+
+The video gives a concrete recipe on how your first e-mail to potential users should look like:
+* These users do not know you, so it should be brief. 6-8 sentences.
+* Clear language, no jargon, no buzzwords.
+* Write in plaintext (no HTML).
+* Describe the problem the users have and how you solve them.
+* Say you're the founder and describe why you're impressive ("show, don't tell"; include social proof e.g. companies you have worked for, what your experience is).
+* Obviously, include your website. The website needs to be simple too: screenshots of your product and bullet points of what it does. Alternatively a brief, to the point YouTube video of how your product works
+* Ask for a call to speak to the customer and present a demo.
+
+Your first customers should be your easiest (no special features required):
+* You should have a big pipeline of potential customers - prioritize accordingly.
+* Most of people are not early adopters - avoid them. Send hundreds of e-mails to find the right users.
+
+Very surprisingly to me, Gustaf says that you **should resist the urge to offer your product for free** to the first customers. You should charge them because it's an early sign that it's providing value. If you already learn they don't want to pay for this, it's a sign that you should move on to the next customers ("fire" the complicated users). Instead, offer a money back guarantee.
+
+Gustaf mentions that it's very important to understand and keep track of the conversion rates for each phase of the sales cycle, e.g.:
+1. You start with 500 outreach emails.
+2. 50% of those emails are opened.
+3. 5% reply rate (20 replies).
+4. 50% agree to setup a demo (10 demos).
+5. 20% become paying customers (2 customers).
+
+Using the numbers above, to get your first 10 customers you'd need to send 2500 e-mails! It's normal to face a lot of rejection. It's important to make sure you're reaching enough people, as otherwise you may not have enough data to understand all your conversion rates. Sales is a numbers game.
 
 ## How to Get and Evaluate Startup Ideas
 [How to Get and Evaluate Startup Ideas (Jared Friedman)](https://www.youtube.com/watch?v=Th8JoIan4dg)
