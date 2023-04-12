@@ -44,46 +44,32 @@ In this section I'll be mixing the thoughts from both
 
 {{< youtube Th8JoIan4dg >}}
 
-four mistakes
-1. not solving a real problem (solution in search of a problem)
-2. tarpit ideas: common ideas that are much harder than they seem
-3. not evaluating the idea, going for the very first idea without thinking if it would make a good business
-4. waiting for the perfect idea. better is to be in the middle, ideal: somewhere that is a good starting point: enough interesting qualitites that can morph to the right idea.
+Jared claims there are four main mistakes that founders make:
+1.  Not solving a real problem, often this happens when you work from a solution backwards. You think, machine learning is cool, what could I solve using this? This is called a "solution in search of a problem". Instead, first fall in love with a problem and then think about what would be a good solution for it.
+2.  Tarpit ideas: common ideas that are much harder than they seem. They seem easy, but there's usually a structural reason why it hasn't been solved. E.g. an app for coordinating meeting friends.
+3.  Not evaluating the idea, going for the very first idea without thinking if it would make a good business.
+4.  Waiting for the perfect idea. Better is to be somewhere in the middle between 3 and 4 instead. Your idea should have enough interesting qualities so that it can morph into to the right idea.
 
-questions to identify a good startup idea: 
- founder market fit? - team has experience in the area
-	- how big is market? big now or small now but rapidly growing 
-	- how acute is this problem? Ex. Brex
-	- **do you have competition? competition is good.**
-    most founders think that if you have competition this is bad. no, this is an indication that you're solving a real problem. if there's no competition it's either a really hard problem or no one has this problem. but if you're going an entrenched  competition you need a new insight.
-	- do you want this? do we know personally someone wanting this? 
-	- only recently possible or recently necessary? Ex.Checkr
-	- are there good proxies for this business? a large company that does something similar, but not direct competitor.
-	- is this an idea u want to work on for years? often, idea morphs, could also be boring. as it becomes succesful it tends to grow on you over time
-	- is this a scalable business? 
-	- is this a good idea space? a class of closely related ideas. e.g. tools for managing hotels. upselling, revenue mangement, etc. it also means you have more adjacent ideas that you can drift into.
+So how do you identify a good startup idea? Jared gives 10 pointers:
+1.  Do you have founder market fit? I.e., do you have experience to work in this idea? This is both about having experience with the tools you plan to use to solve the problem as well as experience in the field itself.
+2.  How big is the market? Obviously, big is better. However, markets that are small but growing quickly are also good markets.
+3.  How acute is this problem? Is this a problem many people have and for which there is no good solution in the market?
+4.  Do you have competition? What surprised me here is that **competition is good**. Most people, myself included, believe that if you have competition this is bad. Instead see **competition as an indication that you're solving a real problem**. If there's no competition it's either a really hard problem or no one has this problem. However, if you're going into an entrenched space you need a new insight that others don't have.
+5.  Do you want this? Do you know personally someone wanting this? These questions are trying to understand if you're solving a real problem people have.
+6.  Has this only recently become possible or recently necessary? Eg. a new technology or a regulatory challenge.
+7.  Are there good proxies for this business? A large company that does something similar, but not direct a competitor.
+8.  Is this an idea you want to work on for years? Often an idea morphs, or it could also be boring. As it becomes successful, it tends to grow on you over time.
+9.  Is this a scalable business? 
+10.  Is this a good idea space? Is this e.g. a class of closely related ideas. e.g. tools for managing hotels. There's many other tools in this space, e.g. for upselling, revenue management, etc. This also means you have more adjacent ideas that you can drift into.
     
-    how to come up with new ideas?
-	- made up idea possible, btu not best way. Organic is better.
-		- long game - become expert, work at startup, just build things (thought not startup idea)
-	- 7 recipes
-		- start with team expertise, idea taking advantage of that expertise (Rezi)- interdomain advantage
-		- start with problem encountered (Ex, Vetcove)
-		- things you personally wish existsed (Ex, Doordash) - beware of tarpit
-		- things that have changed recently Ex. Covid => gathertown
-		- new variants of successful companies Ex. nuvo cargo
-		- talk to people and ask what problems (first idea space), Ex. AtoB
-		- big industries seem broken => right for disruption
-		- find cofounder in yc
-
-## How to Evaluate Startup Ideas (Kevin Hale)
-A lot of people, for instance, like I had no idea or like I have too many ideas that they don't know which one to pursue because of...main reason why a lot of people are only able to work on their startup sometimes part-time. Yes, they might be stuck without resources but they didn't have conviction. They didn't know like, oh, what would I have to believe in order to say like I want to quit my job?
-
-So for us at YC, the definition of a startup is a company that is designed or created to try to grow very quickly. So if you're not trying to build a company that grows very, very fast, then you're just building a normal company, it's a small business. And there's nothing wrong with that but these companies are the ones that investors are interested in.
-
-So, the first is the problem. So startup idea is composed of three parts. The first part is a problem and it's basically the initial conditions. You have to explain to me, like, what is the setting for this company that allows it to be able to grow quickly. The second is the solution. This is basically what is the experiment that you're basically running within those conditions for it to grow really quickly? And the third is, what's your insight? So what's your explanation why the thing that you're going to try, your experiment is going to end up being successful? Those are the three components that I always try to figure out when I'm listening to someone's pitch. Here's a tip for talking about the problem or to know whether your problem, your initial conditions, are correct.
-
-You go, like, I'm going to do whatever it takes to solve people, users, customers issues. The last one's a little tricky. It's what is the insight? What's the reason why this solution is going to work? And this is where a lot of companies sort of get tricked up because it's really about, like, what is your company's unfair advantage, right?
+So how do you come up with new ideas? While a made up idea is possible, this is not the best way as it's prone to not being a real problem. Ideas that you come up organically is better, what kind of problems do you face on your day-to-day or at work? These are likely problems that other people have too. Jared recommends playing the long game. Become an expert in your field, work at startup or at a large company, build things until you're inspired enough to have your own ideas on what to solve. Concretely, his suggestions are:
+1.  Think about what you're solving at work and start with what you have expertise in. This grants automatic founder market fit.
+2.  Start with a problem you have personally encountered. The example here was that veterinarians had to spend a lot of time to order products and a startup created an easy platform making those.
+3.  Things that you personally wish existed. E.g., Doordash, the food delivery company was created by someone tired of picking up their food orders. However, beware of tarpit ideas.
+4.  Things that have changed recently, either due to regulation or to a structural change. E.g. Covid. In Switzerland you were entitled to 5 free self tests per month. A startup made it convenient to get those regularly per mail.
+5.  Think of new variants of successful companies. Some solutions only exist for certain countries, could a specific country need a tailored solution?
+6.  Talk to people and ask what problems they have. Downside is that it requires a lot of skill, so start with an idea space and talk to a lot of users to understand their problems.
+7.  And finally, if you have don't have any idea, find someone else to work with you who has an idea you believe in.
 
 ## How to plan an MVP
 I then read [How to plan an MVP](https://www.ycombinator.com/library/6f-how-to-plan-an-mvp) from Michael Seibel.
