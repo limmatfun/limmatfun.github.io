@@ -23,7 +23,7 @@ Below I'll share a short summary of the ones I thought were most interesting and
 4. How to get your first customers
 5. How to talk to users
 
-#### Should You Start a Startup?
+### Should You Start a Startup?
 I started with a lesson from Harj Taggar on [Should You Start a Startup](https://www.ycombinator.com/library/GV-should-you-start-a-startup)?
 
 {{< youtube BUE-icVYRFU >}}
@@ -38,7 +38,7 @@ The most interesting part to me was the suggestion to quickly turn the ideas int
 
 Regarding if or when you should quit your job to work on a startup, Harj recommends to think less about how the side projects are going and more about if you're enjoying this process of making ideas into reality. If this energizes you and feels different than your day job, it may be a sign that it's time to quit.
 
-## How to Get and Evaluate Startup Ideas
+### How to Get and Evaluate Startup Ideas
 In this section I'll be mixing the thoughts from both
 [Jared Friedman]((https://www.youtube.com/watch?v=Th8JoIan4dg)) and [Kevin Hale](https://www.ycombinator.com/library/6e-how-to-evaluate-startup-ideas) on how to get and evaluate startup ideas.
 
@@ -71,7 +71,7 @@ So how do you come up with new ideas? While a made up idea is possible, this is 
 6.  Talk to people and ask what problems they have. Downside is that it requires a lot of skill, so start with an idea space and talk to a lot of users to understand their problems.
 7.  And finally, if you have don't have any idea, find someone else to work with you who has an idea you believe in.
 
-## How to plan an MVP
+### How to plan an MVP
 I then read [How to plan an MVP](https://www.ycombinator.com/library/6f-how-to-plan-an-mvp) from Michael Seibel.
 
 {{< youtube 1hHMwLxN6EM >}}
@@ -86,7 +86,7 @@ What I really like here is the fast approach. You should opt for a very lean MVP
 
 >The goal here is just to get anything out in the world. Once you get anything out in the world, the momentum to keep anything going is extremely strong.
 
-## How to talk to users
+### How to talk to users
 [How to talk to users](https://www.ycombinator.com/library/6g-how-to-talk-to-users)
 
 The goal of a great user interview is to extract information from the person that you're talking to, to extract data that will help you improve the product or improve your marketing or improve your positioning. It is not to sell them on using your product. So, at the core of a great user interview, you need to learn about their life. You need to talk about specifics around the problem area that you're trying to solve that the user may be going through.
@@ -121,7 +121,7 @@ The last stage before product-market fit that can benefit from user interviews i
 
 The second main type of bad data that you may encounter is fluff. These are hypotheticals. These are generic statements. Whenever you're in the middle of a user interview and you start getting onto this hypothetical, you know, "Oh, here's what the product may look like in the future." Try to steer it back to specifics. Again, you're conducting a user interview, not to pitch your product but to learn about problems or issues that the user has faced in their past so that you can improve it in the future. That's it. That was meant to be like a quick short dive into "Talking To Users."
 
-## How to Get Your First Customers
+### How to Get Your First Customers
 One of my favorite video lessons was [How to Get Your First Customers](https://www.youtube.com/watch?v=hyYCn_kAngI) from Gustaf Alströmer.
 
 {{< youtube hyYCn_kAngI >}}
