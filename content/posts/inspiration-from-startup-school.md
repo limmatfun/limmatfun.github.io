@@ -1,6 +1,6 @@
 ---
 title: "Inspiration from Startup School & First Idea"
-date: 2023-04-166T00:45:28+02:00
+date: 2023-04-16T00:45:28+02:00
 draft: false
 limmat_temperature: 9.3
 tags: ["Tech", "Personal"]
