@@ -17,6 +17,16 @@ Idea: Dynamic pricing tailored for a city / area.
 How to get data:
 Scrape booking.com information? All hotels seem to be getting occupancy rates from somewhere, start logging it.
 
+try to create a fake hotel using current software
+what kind of problems do you have?
+how well are they solved?
+check how booking.com dynamic pricing works
+
+Try to understand size of market
+scrape booking.com in brazil? check which hotels always have the same price, try different regions. which hotels are new and maybe need help with pricing?
+potential pivoting: upselling
+
+try to find hotels that would talk to you
 How to get customers
 E-mail new hotels on booking.com? Emails hotels that currently do not use dynamic pricing?
 

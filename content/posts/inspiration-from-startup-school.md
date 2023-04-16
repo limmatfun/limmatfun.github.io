@@ -1,8 +1,8 @@
 ---
-title: "A side project with a twist & Startup School"
-date: 2023-04-02T00:45:28+02:00
-draft: true
-limmat_temperature: 8.8
+title: "Inspiration from Startup School & First Idea"
+date: 2023-04-166T00:45:28+02:00
+draft: false
+limmat_temperature: 9.3
 tags: ["Tech", "Personal"]
 ---
 The first thing I posted on this blog is how [I miss working on side projects](/posts/image-blogging-in-2022) and the excitement that brings. When I was a teenager I was programming websites and was really thrilled by seeing the number of users going up on those websites. I created several of them, including a website for emulator & roms, multiple ones in the web hosting directory space and also a few related to games. I also made a text-based website game and programmed a 2D online game, heavily inspired by [Graal Online](https://www.graalonline.com/). The text-based website game was probably one of the most satisfying projects in terms of users and it was very fulfilling to watch the number of users growing. I don't know if I'm romanticizing this too much but I really miss that feeling. 
@@ -138,16 +138,13 @@ Gustaf mentions that it's very important to understand and keep track of the con
 
 Using the numbers above, to get your first 10 customers you'd need to send 2500 e-mails! It's normal to face a lot of rejection. It's important to make sure you're reaching enough people, as otherwise you may not have enough data to understand all your conversion rates. Sales is a numbers game.
 
-## Next steps
-And I actually already do have a first idea of what I think could potentially be worth trying.
+## Idea: Dynamic Hotel Pricing
+And I actually already do have a first idea of what I think could potentially be worth trying: dynamic pricing for hotels. Rather than always selling the same flat rate, dynamic pricing accounts for changes in demand. When demand is high, dynamic pricing allows you to charge higher rates. And when demand slows down, rates drop to try to capture as much demand as possible. 
 
-try to create a fake hotel using current software
-what kind of problems do you have?
-how well are they solved?
-check how booking.com dynamic pricing works
+I've reserved a few hotels over booking.com that always had the same price for every day, so they are not profiting from seasonal movements, or days where demand is higher (typically weekends or holidays). I'm confident I'm experienced enough with machine learning to be able to train a great model for this and also the web app. I think this is also good idea space, as there's many neighboring ideas I can go into such as front-desk software, reservation management, upselling or channel management.
 
-Try to understand size of market
-scrape booking.com in brazil? check which hotels always have the same price, try different regions. which hotels are new and maybe need help with pricing?
-potential pivoting: upselling
+The dynamic pricing space seems actually quite crowded, I found many good solutions such as [Beyond Pricing](https://www.beyondpricing.com/), [smart pricing](https://www.smartpricing.it/en) and even a swiss one called [roompricegenie.com](https://roompricegenie.com/). Additionally all large booking portals such as booking.com or AirBnB already offer their own solution for dynamic pricing. However what I didn't find was someone offering a solution for this in Brazil. I think Brazil is a market with many peculiarities and a tailored solution with market specialists could potentially be an edge.
 
-try to find hotels that would talk to you
+The challenge will be how to get hotel reservation data at scale. From my short research there's no single source of data and large portals such as booking.com limit how much data you can scrape. I think there are many interesting challenges and I'm excited about learning more about this space.
+
+As next steps I want to understand how to scrape hotel data and then estimate how many hotels in Brazil are using fixed pricing. I think those would also serve as the best potential first customers.
