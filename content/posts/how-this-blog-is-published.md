@@ -3,6 +3,7 @@ title: "How this blog is published"
 date: 2022-12-08T12:44:28+02:00
 draft: false
 limmat_temperature: 9.4
+images: ["images/hugo_github_action.png"]
 tags: ["Tech"]
 ---
 

@@ -3,6 +3,7 @@ title: "Imagine Blogging in 2022"
 date: 2022-08-05T12:34:32+02:00
 draft: false
 limmat_temperature: 25.5
+images: ["images/blog_google_trends.png"]
 tags: ["Personal"]
 ---
 

@@ -3,6 +3,7 @@ title: "Dynamic pricing"
 date: 2023-03-25T00:45:28+02:00
 draft: true
 limmat_temperature: 8.8
+images: ["images/blog_google_trends.png"]
 tags: ["Tech"]
 ---
 Motivating to think you can launch with something you build on a weekend or in a week
