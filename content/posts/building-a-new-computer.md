@@ -3,6 +3,7 @@ title: "Building a new computer: small, fast and silent!"
 date: 2023-02-05T00:44:28+02:00
 draft: false
 limmat_temperature: 6.3
+images: ["images/computer_size_difference.jpg"]
 tags: ["Tech"]
 ---
 

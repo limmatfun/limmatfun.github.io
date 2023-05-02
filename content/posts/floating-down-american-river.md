@@ -3,6 +3,7 @@ title: "Floating down the American River"
 date: 2023-03-25T00:44:28+02:00
 draft: false
 limmat_temperature: 8.8
+images: ["images/american_river_start.png"]
 tags: ["Personal"]
 ---
 
