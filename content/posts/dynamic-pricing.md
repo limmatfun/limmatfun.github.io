@@ -1,11 +1,32 @@
 ---
-title: "Dynamic pricing"
-date: 2023-03-25T00:45:28+02:00
+title: "Dynamic hotel pricing: initial plan"
+date: 2023-05-02T00:45:28+02:00
 draft: true
-limmat_temperature: 8.8
-images: ["images/blog_google_trends.png"]
+limmat_temperature: 11.9
+images: ["images/dynamic_hotel_pricing.png"]
 tags: ["Tech"]
 ---
+I've now done some research into the [dynamic hotel pricing idea I mentioned at the end of the last post](/posts/inspiration-from-startup-school#idea-dynamic-hotel-pricing) and the idea is now slowly materializing into something concrete. I now understand the space better and what it would involve to implement such an idea. This post will give a summary of a first concrete plan with somewhat minimal work. 
+
+## What is dynamic pricing?
+The basic idea is that you want to maximize revenue based on demand. If demand is high then prices rise and conversely, if demand is low, prices drop to attract more customers. Concretely for a hotel this means adjusting prices based on competitors rates (charge more than competitors and your attractivity drops), seasonality (e.g. for a business property there's more reservations during weekdays while for a vacation property it tends to concentrate on weekends), holidays, local events, occupancy rates (both from your own property and from your competitors) and even weather.
+
+## A crash course on the hotel distribution industry 
+So if I build something that predicts hotel prices based on demand, how would this actually be integrated into the hotels? This requires understanding how property owners manage their availability and how prices are distributed. I learned a lot about how hotel room distribution and management works from this excellent post from [altexsoft on Hotel Booking APIs](https://www.altexsoft.com/blog/hotel-api/). In summary, these are the main players:
+* Online Travel Agencies (OTAs): They are the dominant force in this space and where the bulk of reservations is made and you have probably heard of the two largest in this space: Booking Holdings (Booking.com, Kayak, Agoda, Priceline, etc.) and Expedia.
+* Global distribution systems (GDSs): They originate in the airline industry where they are the dominant player and have access to the majority of fares. GDSs aggregate data from multiple sources and distribute them across OTAs and travel agents. The largest players are Amadeus, Sabre and Travelport.
+* Channel managers: This is a tool that helps hotel to distribute their inventory across multiple channels (Booking, Expedia, AirBnB, GDSs, etc.). A channel manager ensures no overbooking can happen and that your rates are consistent across all the different platforms. This happens in both directions. Once a reservation is made at any of those platforms, the channel manager is notified and then notifies all other platforms.
+
+Hotels may work with an OTA or a channel manager directly, but more often than not they use a property management system (PMS) instead. A PMS is a software that handles front- and back-office operations, reservations, occupancy management, housekeeping and other administrative tasks for a hotel. It usually also integrates with a channel manager so that the hotels inventory and its rates are distributed properly.
+
+{{< figure src="/images/dynamic_hotel_pricing.jpg" width="80%" caption="Hotels use a PMS or a Channel Manager to have their rates distributed to multiple GDSs, OTAs and bedbanks (the relationship is bi-directional: when a booking is made the PDS or Channel Manager is also updated). The dynamic pricing software gets its data from a GDS and talks directly with the PDS of the hotel to update rates." >}}
+
+### How this thing would work
+In the case of a dynamic pricing solution, the integration needs to be done either with a channel manager or a PMS.
+
+## Initial plan
+
+
 start with amadeus because less bureaucractic. GDS however doesn't have small properties (e.g. airbnb, vacation rentals, urban homes). "While GDSs generally have large hotel inventories, they may miss some segments that are of little interest to corporate travelers."
 move to OTA (expedia, booking) when possible, but they all require real companies and proof that you are generating revenue for them. "Yet, you need to have a significant volume of bookings to be vetted by large players since they are typically not interested in integrations with startups and small businesses."
 alternative may be connectivity partners - should have widest hotel offer
