@@ -6,7 +6,7 @@ limmat_temperature: 11.9
 images: ["images/dynamic_hotel_pricing.png"]
 tags: ["Tech"]
 ---
-I've done some research into the [dynamic hotel pricing idea](/posts/inspiration-from-startup-school#idea-dynamic-hotel-pricing) I mentioned at the end of the last post and the idea is now slowly materializing into something concrete. I now understand the space better and what it would involve to implement such an idea. This post will give a summary of a concrete plan: how the minimum viable product (MVP) could look like and how to identify potential first customers. Hopefully with somewhat minimal work. 
+I've done some research into the [dynamic hotel pricing idea](/posts/inspiration-from-startup-school#idea-dynamic-hotel-pricing) I mentioned at the end of the last post and it's now slowly materializing. I now understand the space better and what it would involve to implement such an idea. This post will give a summary of a concrete plan on how the minimum viable product (MVP) could look like and how to identify potential first customers. Hopefully with somewhat minimal work. 
 
 ## What is dynamic pricing?
 The basic idea behind dynamic pricing is to maximize revenue based on demand. If demand is high then prices rise and conversely, if demand is low, prices drop to attract more customers. Concretely for a hotel this means adjusting prices based on a multitude of factors: 
