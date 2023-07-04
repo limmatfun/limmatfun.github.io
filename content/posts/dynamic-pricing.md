@@ -1,23 +1,24 @@
 ---
 title: "Dynamic hotel pricing: planning the MVP"
-date: 2023-05-02T00:45:28+02:00
+date: 2023-07-04T00:45:28+02:00
 draft: true
 limmat_temperature: 11.9
 images: ["images/dynamic_hotel_pricing.png"]
 tags: ["Tech"]
 ---
-I've done some research into the [dynamic hotel pricing idea](/posts/inspiration-from-startup-school#idea-dynamic-hotel-pricing) I mentioned at the end of the last post and it's now slowly materializing. I now understand the space better and what it would involve to implement such an idea. This post will give a summary of a concrete plan on how the minimum viable product (MVP) could look like and how to identify potential first customers. Hopefully with somewhat minimal work. 
+I've done some research into the [dynamic hotel pricing idea](/posts/inspiration-from-startup-school#idea-dynamic-hotel-pricing) I mentioned and it's now slowly materializing. I now understand the space better and what it would involve to implement such an idea. This post will give a summary of a concrete plan on how the minimum viable product (MVP) could look like and how to identify potential first customers. Hopefully with somewhat minimal work. 
 
 ## What is dynamic pricing?
 The basic idea behind dynamic pricing is to maximize revenue based on demand. If demand is high then prices rise and conversely, if demand is low, prices drop to attract more customers. Concretely for a hotel this means adjusting prices based on a multitude of factors: 
-* Competitors rates (charge more than competitors and your attractivity drops)
-* Seasonality including Holidays (e.g. for a business property there's more reservations during weekdays while for a vacation property it tends to concentrate on weekends, holidays; there may be a summer/winter high/low season)
+* Competitors rates (prices should be competitive; otherwise charge more than competitors and your attractivity drops)
+* Seasonality including Holidays (e.g. for a business property there's more reservations during weekdays while for a vacation property it tends to concentrate on weekends and holidays; there may be a summer/winter high/low season)
 * Local events (festivals, work conferences attract more guests than usual)
-* Occupancy rates (both from your own property and from your competitors) and even weather.
+* Occupancy rates (both from your own property and from your competitors)
+* Weather
 
 ## Planning the MVP
 These are the following steps that need to be solved to have a basic dynamic pricing solution:
-1.  Integrate it into the hotel's system, i.e., how it would set the room rates for the hotels.
+1.  Integrate it into the hotel's system, i.e., it needs to be able to set the prices for hotels directly.
 2.  Get the necessary data for predicting prices. As mentioned above we need competitor rates, local events, current occupancy rate and understand seasonality effects for each hotel.
 3.  Train a model to predict the ideal price that hotels can charge for their rooms.
 
@@ -37,10 +38,10 @@ Hotels may work with an OTA or a channel manager directly, but more often than n
 ### Integrating a dynamic pricing solution
 So how does a dynamic pricing solution fit in the big picture? Since hotels typically use a PMS or Channel Manager to distribute their rates, this piece of software needs to be able to communicate directly with them. 
 
-{{< figure src="/images/dynamic_hotel_pricing.jpg" width="80%" caption="The dynamic pricing software gets its data from a GDS and talks directly with the PDS of the hotel to update rates." >}}
+{{< figure src="/images/dynamic_hotel_pricing.jpg" width="80%" caption="The dynamic pricing software gets its data from a GDS (or OTA) and talks directly with the PDS of the hotel to update rates." >}}
 
 ## Step 2: Getting the data
-I mentioned how a hotel room's rate should depend on 4 factors: competitor rates, seasonality, local events and current occupancy rates. To simplify things for the MVP I'm reducing this just to competitor rates. They should be a good proxy anyways for the other 3 factors. 
+I mentioned how a hotel room's rate should depend on 4 factors: competitor rates, seasonality, local events, current occupancy rates and weather. To simplify things for the MVP I'm reducing this just to competitor rates. They should be a good proxy anyways for the other 4 factors. 
 
 The best place to get the data would be an OTA like Booking.com or Expedia. The vast majority of hotels are on them and both offer APIs to programatically access rates and availability at scale. However, Booking is currently not accepting new partners and Expedia requires partners to be able to generate $1.5M in bookings for them. Indeed OTAs typically offer their APIs for free so they expect revenue to be generated for them in exchange.
 
