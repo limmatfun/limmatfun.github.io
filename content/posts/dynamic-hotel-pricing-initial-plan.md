@@ -3,7 +3,7 @@ title: "Dynamic hotel pricing: an initial plan"
 date: 2023-07-15T00:45:28+02:00
 draft: false
 limmat_temperature: 24.8
-images: ["images/dynamic_hotel_pricing.png"]
+images: ["images/dynamic_hotel_pricing.jpg"]
 tags: ["Tech"]
 ---
 I've done some research into the [dynamic hotel pricing idea](/posts/inspiration-from-startup-school#idea-dynamic-hotel-pricing) I mentioned and it's now slowly materializing. I now understand the space better and what it would involve to implement such an idea. This post will give a summary of a concrete plan on how the minimum viable product (MVP) could look like and how to identify potential first customers. Hopefully with somewhat minimal work. 
@@ -65,6 +65,6 @@ I'll start with the self-service API from Amadeus, as that's the best option I h
 2.  Custom pages for each of the hotels I reach out to. It should contain a list of competitors, a map with the current location, the competitors locations and their rates. It should show the potential of knowing your competitor rates. Perhaps I could show a particular date I believe they could charge more, or a simulation on how days of the week influence the pricing, or how occupancy rate should influence their rates.
 
 ### QuartoVerde
-I also have decided on a name already. Quarto Verde, which means green room in portuguese. The motivation being that the main UI of the software will be a calender. Each day will have a color indicating if their rooms are appropriately priced on that particular day. It will be green if the pricing matches what is suggested by the dynamic pricing software.
+I also have decided on a name already. Quarto Verde, which means green room in portuguese. The motivation being that the main UI of the software will be a calendar. Each day will have a color indicating if their rooms are appropriately priced on that particular day. It will be green if the pricing matches what is suggested by the dynamic pricing software.
 
 It has taken me 2 months to publish this post and I haven't even started working on the website yet. 😅 I'm hoping things can move a bit faster from now on. On the next post I plan to describe how I got the initial list of hotels, the e-mail I plan on sending to the hotels and hopefully a link to the online website!
