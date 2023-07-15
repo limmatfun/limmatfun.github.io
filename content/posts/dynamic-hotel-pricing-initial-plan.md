@@ -16,6 +16,8 @@ The basic idea behind dynamic pricing is to maximize revenue based on demand. If
 * Occupancy rates (both from your own property and from your competitors)
 * Weather
 
+The hotel dynamic pricing space seems actually quite crowded, I found many good solutions such as [Beyond Pricing](https://www.beyondpricing.com/), [smart pricing](https://www.smartpricing.it/en) and even a swiss one called [roompricegenie.com](https://roompricegenie.com/). Additionally all large booking portals such as booking.com or AirBnB already offer their own solution for dynamic pricing. However what I didn't find was someone offering a solution for this in Brazil. I think Brazil is a market with many peculiarities and a tailored solution with market specialists could potentially be an edge.
+
 ## Planning the MVP
 These are the steps that need to be solved to have a basic dynamic pricing solution:
 1.  Integrate it into the hotel's system, i.e., it needs to be able to set the prices for hotels directly.
