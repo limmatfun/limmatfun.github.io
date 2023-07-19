@@ -1,7 +1,7 @@
 ---
 title: "Amadeus Self-Service Hotel Search API: a short review"
 date: 2023-07-15T00:47:28+02:00
-draft: false
+draft: true
 limmat_temperature: 24.8
 images: ["images/dynamic_hotel_pricing.jpg"]
 tags: ["Tech"]
