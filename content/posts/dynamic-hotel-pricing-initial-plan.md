@@ -4,7 +4,7 @@ date: 2023-07-15T00:45:28+02:00
 draft: false
 limmat_temperature: 24.8
 images: ["images/dynamic_hotel_pricing.jpg"]
-tags: ["Tech"]
+tags: ["Tech", "QuartoVerde"]
 ---
 I've done some research into the [dynamic hotel pricing idea](/posts/inspiration-from-startup-school#idea-dynamic-hotel-pricing) I mentioned and it's now slowly materializing. I now understand the space better and what it would involve to implement such an idea. This post will give a summary of a concrete plan on how the minimum viable product (MVP) could look like and how to identify potential first customers. Hopefully with somewhat minimal work. 
 

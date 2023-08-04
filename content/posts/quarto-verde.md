@@ -4,7 +4,7 @@ date: 2023-07-15T00:46:28+02:00
 draft: true
 limmat_temperature: 24.8
 images: ["images/dynamic_hotel_pricing.png"]
-tags: ["Tech"]
+tags: ["Tech", "QuartoVerde"]
 ---
 
 ### Future steps
