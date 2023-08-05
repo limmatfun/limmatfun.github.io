@@ -38,7 +38,7 @@ html.dark a, a:active, a:hover {
     border-bottom: 2px solid #a2c4ff;
 }
 
-ul.flat li {
+ul.tag-list li {
     display: inline;
 }
 
@@ -52,7 +52,7 @@ ul.flat li {
     border-radius: 7px;
 }
 
-.tags ul.flat li:first-child {
+ul.tag-list li:first-child {
     margin-right: 5px;
 }
 

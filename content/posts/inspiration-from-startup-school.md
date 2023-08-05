@@ -4,7 +4,7 @@ date: 2023-04-16T00:45:28+02:00
 draft: false
 limmat_temperature: 9.3
 images: ["images/underio.png"]
-tags: ["Tech", "Personal"]
+tags: ["Tech"]
 ---
 The first thing I posted on this blog is how [I miss working on side projects](/posts/imagine-blogging-in-2022) and the excitement that brings. When I was a teenager I was programming websites and was really thrilled by seeing the number of users going up on those websites. I created several of them, including a website for emulator & roms, multiple ones in the web hosting directory space and also a few related to games. I also made a text-based website game and programmed a 2D online game, heavily inspired by [Graal Online](https://www.graalonline.com/). The text-based website game was probably one of the most satisfying projects in terms of users and it was very fulfilling to watch the number of users growing. I don't know if I'm romanticizing this too much but I really miss that feeling. 
 

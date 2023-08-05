@@ -3,7 +3,7 @@ title: "Work"
 date: 2022-09-04T08:07:41-07:00
 draft: false
 limmat_temperature: 23.3
-tags: ["Work", "Money"]
+tags: ["Personal"]
 ---
 
 Lately I've been thinking a lot about work. And fortunately, not about what I have to do at work, but rather about work in general. I'm in the very privileged position where I feel accomplished at the company I'm currently in and also that I'm being compensated well. I've saved up quite a bit and continue to save a decent amount every year. I follow the conventional wisdom of investing my money in ETFs. But what should you do with your hard earned paper in the end?

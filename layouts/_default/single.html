@@ -38,7 +38,7 @@
 			<div class="tags">
 				{{ if ne .Type "page" }}
 					{{ if gt .Params.tags 0 }}
-						<ul class="flat">
+						<ul class="tag-list">
 							<li>Tags: </li>
 							{{ range .Params.tags }}
 							<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
