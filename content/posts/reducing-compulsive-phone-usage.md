@@ -43,5 +43,5 @@ I've also been considering if I want my phone permanently in "do not disturb" mo
 ### Reducing triggers
 All non-notification-based triggers I think are harder to fix. They require some amount of self-control and they have slowly become a habit for you. There are however a few places where I think I can easily reduce it. I've started not bringing my phone to the bathroom and instead just leave it at my desk. For situations where I'm waiting for anything I try to exercise a bit of self-control. I think everything in life is a skill, and self-control is definitely one I want to be very good at.
 
-### Unrelated note
+## Unrelated note
 I wrote this post in my balcony this morning. I'm glad I managed to write it in less than 45 minutes (partially I think this is because I've been spending most of my personal project time on QuartoVerde, so I knew I had to write more focused to save time). I'm also glad I'm enjoying this balcony to the fullest. It's a bit chilly this morning (17 degrees), so I got a blanket to cover my legs and a comfortable jacket. It's also the first time I worked on a personal project before going to work. Maybe I should do this more often.
