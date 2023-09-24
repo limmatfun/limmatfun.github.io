@@ -68,7 +68,7 @@ Next cut is no longer doing a cross-cut, but rather cutting in the same directio
 
 Then we're cutting the other edge. This time we cut from the other side of the saw using a lateral fence, as now we have a straight edge we can use to align it with the fence. We have to be careful here and ensure the lateral fence does not beyond the blade (kickback risk). The additional advantage of cutting with a fence is that we can ensure the board has a particular width.
 
-{{< figure src="/images/woodworking_lateral_fence.jpg"  width="60%" caption="A cut along the long edge of the wood using the lateral fence.">}}
+{{< figure src="/images/woodworking_lateral_fence.jpg"  width="60%" caption="Flattening the long edges.">}}
 
 Now that both of the long edges are straight and parallel to each other, we're ready to use the planer. Note that we still have to come back to the circular saw to make the short edges straight as well.
 
