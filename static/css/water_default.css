@@ -198,3 +198,7 @@ table tbody tr:nth-of-type(even) {
 .post ul li {
     margin-bottom: 0;
 }
+
+.post .image-gallery ul {
+    padding-left: 0;
+}
