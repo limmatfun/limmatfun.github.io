@@ -1,5 +1,5 @@
 ---
-title: "Learning Golang: first impressions"
+title: "Learning Go: first impressions"
 date: 2024-01-02T00:45:28+02:00
 draft: false
 limmat_temperature: 7.0
@@ -98,7 +98,7 @@ if err != nil {
     // handle error
 }
 ```
-Unfortunately, this boilerplate seems to be working as intended according, as proposals to reduce this do not have a lot of support [[1](https://github.com/golang/go/issues/32437)], [[2](https://github.com/golang/go/issues/32811)], [[3](https://github.com/golang/go/issues/33233)].
+Unfortunately, this boilerplate seems to be working as intended, as proposals to reduce this do not have a lot of support [[1](https://github.com/golang/go/issues/32437)], [[2](https://github.com/golang/go/issues/32811)], [[3](https://github.com/golang/go/issues/33233)].
 
 ### Bonus: C++
 While C++ also has the try/catch syntax for exceptions, at work we typically use the [Abseil status library](https://abseil.io/docs/cpp/guides/status) instead. This works in a very similar way to Go, with errors being just another value. When using this library, functions that can fail return `absl::Status` (just the error) or `absl::StatusOr` (error or the value, if suceeded; C++ does not allow returning two values), so you are forced to handle errors gracefully.
