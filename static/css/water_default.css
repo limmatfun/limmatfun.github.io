@@ -21,6 +21,7 @@ code:not([class]) {
     background-color: #4e919d;
     padding: 2px;
     border-radius: 7px;
+    white-space: nowrap;
 }
 
 img, figure img a {
