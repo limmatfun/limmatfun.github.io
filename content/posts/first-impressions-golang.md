@@ -109,7 +109,8 @@ Here's an example of how a code that handle errors typically could look like:
 absl::StatusOr<http::Response> response = 
     request.get("http://test.com/test");
 if (!response.ok()) {
-    // handle error
+    // bubble error further up
+    return response.status();
 }
 // ...
 ```
