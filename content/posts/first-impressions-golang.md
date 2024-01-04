@@ -7,14 +7,14 @@ images: ["images/golang_logo.jpg"]
 tags: ["Tech"]
 ---
 
-I'm working on a new project to collect hotel booking data regularly, scraping the Booking.com API. The idea is to deploy the scraper using [Google Cloud Functions](https://cloud.google.com/functions) and setup daily scraping using the [Google Cloud Scheduler](https://cloud.google.com/scheduler). I'm writing data to [BigQuery](https://cloud.google.com/bigquery) and plan on using this data later to train a machine learning model to predict hotel room prices.
+I'm working on a new project to collect hotel booking data regularly, scraping the Booking.com API. The idea is to deploy the scraper using [Google Cloud Functions](https://cloud.google.com/functions) and setup daily scraping using the [Cloud Scheduler](https://cloud.google.com/scheduler) and [Cloud Tasks](https://cloud.google.com/tasks). I'm writing data to [BigQuery](https://cloud.google.com/bigquery) and plan on using this data later to train a machine learning model to predict hotel room prices.
 
 I started with Python, but got frustrated with the development tools and decided to try something new instead. I've now been learning [Go](https://go.dev/), also known as Golang and I've been quite happy with it so far.
 
 {{< figure src="/images/golang_logo.jpg" width="50%">}}
 
 ## Syntax
-I find coding syntax in Go very intuitive and easy to read. While it is [strongly-typed](https://stackoverflow.com/questions/2690544/what-is-the-difference-between-a-strongly-typed-language-and-a-statically-typed), you don't need to write type names when declaring variables, as the compiler automatically deduces it. It is also statically typed, meaning the type system is checked at compile time, unlike Python, which is dynamically typed and types are only verified at run time. I actually really like the safety brought by a statically typed language, as this reduces the chances for mistakes and reduces debugging time.
+I find coding syntax in Go very intuitive and easy to read. While it is [statically-typed](https://stackoverflow.com/questions/2690544/what-is-the-difference-between-a-strongly-typed-language-and-a-statically-typed), you don't need to write type names when declaring variables, as the compiler automatically deduces it. The type system is checked at compile time, unlike Python, which is dynamically typed and types are only verified at run time. I actually really like the safety brought by a statically typed language, as this reduces the chances for mistakes and reduces debugging time.
 
 Here is a code snippet in Golang:
 ```go
