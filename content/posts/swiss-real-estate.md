@@ -1,8 +1,8 @@
 ---
 title: "Is real estate in Switzerland a good investment?"
-date: 2024-06-08T00:47:28+02:00
-draft: true
-limmat_temperature: 18.2
+date: 2024-06-12T00:47:28+02:00
+draft: false
+limmat_temperature: 14.4
 images: ["images/buy_vs_rent.png"]
 tags: ["Investing", "Real Estate"]
 ---
@@ -10,7 +10,7 @@ Buying real estate in a big city like Zurich is [estimated to be 35% more expens
 
 {{< figure src="/images/buy_vs_rent.png" width="100%" caption="Where in Switzerland is it cheaper to buy than to rent? Blue indicates cheaper to buy than to rent. Red means the opposite. Source: [SRF](https://www.srf.ch/news/wirtschaft/immobilien-in-der-schweiz-wo-mieten-guenstiger-ist-als-kaufen-pruefen-sie-ihre-gemeinde).">}}
 
-Don't let yourself be fooled by the chart above. While by area it may look like it tends to be cheaper to buy than to rent, the big centers where most people live such as Geneva, Basel, Bern, Zug, Luzern and Zurich are very red. These areas tend to have a terrible rental yield.
+Don't let yourself be fooled by the chart above. By area it may look like it tends to be cheaper to buy than to rent, however those are mostly rural areas. The urban centers where most people live such as Geneva, Basel, Bern, Zug, Luzern and Zurich are very red. These areas tend to have a terrible rental yield.
 
 ## So why does anyone even buy real estate?
 2.4% per year doesn't sound that interesting. Just buy stocks, right? After all, the historical inflation-adjusted average return of the largest 500 companies in the US (S&P500) is [7.26%](https://tradethatswing.com/average-historical-stock-market-returns-for-sp-500-5-year-up-to-150-year-averages/) when dividends are reinvested (not fully accurate though: dividends are taxed as income in Switzerland).
@@ -60,14 +60,16 @@ An alternative to investing in real estate, as mentioned previously, are stocks.
 
 Another alternative are swiss real estate funds, such as the [Credit Suisse Real Estate Green Property](https://am.credit-suisse.com/ch/de/asset-management/investment-solutions/fund-search/fund-detail.html/CH0100778445?ISIN=CH0100778445&COUNTRY=CH&LANGUAGE=DE&DOCUMENT=MR) which due to its direct ownership structure incurs [no wealth tax and no income tax on the dividends](https://www.ictax.admin.ch/extern/en.html#/security/CH0100778445/20231231). However, the price of this fund do not seem to really reflect the actual price of houses, which as we have seen before, only goes up:
 
-{{< figure src="/images/credit_suisse_real_estate_fund.png" width="80%" caption="Performance of the Credit Suisse Real Estate Green Property Fund. Compare this to the Zurich property price chart.">}}
+{{< figure src="/images/credit_suisse_real_estate_fund.png" width="80%" caption="Performance of the Credit Suisse Real Estate Green Property Fund. Compare this to the Zurich property price chart. Source: [finanzen.ch](https://www.finanzen.ch/fonds/credit-suisse-real-estate-fund-green-property-ch0100778445)">}}
 
 There are some advantages to owning real estate compared to stocks too:
-*  Portfolio diversification. Real estate
 *  No currency risk. ETFs tracking indexes like S&P 500 are typically exposed to exchange-rate risk, as the main currency is USD yet your life costs are in swiss francs. While this can be mitigated with [hedging](https://www.rbcgam.com/en/ca/learn-plan/investment-strategies/what-is-currency-hedging/detail), this also comes with costs.
-*  Arguably owning swiss property is seen as a safer investment than stocks. It definitely doesn't have the swings seen in stock markets, but I don't have the concrete data to prove this.
+*  Arguably owning swiss property is seen as a safer investment than stocks. It definitely doesn't have the swings seen in stock markets.
 *  (If you lease your property) Constant, passive stream of income. Rent is an (almost) safe source of passive income, which is perfect if you're looking to retire early.
 *  (If you live in your property) Nobody can kick you out, do what you want! It's your place.
+*  Portfolio diversification. Owning real estate has low correlation with stocks (just compare the S&P 500 and the Zurich property prices chart), which means reduced risk and volatility in your investment portfolio. While one class of assets may be declining, since they have low correlation, the other classes may be unaffected or performing well. The choice here shouldn't be stocks **or** real estate, but rather **and**. 
 
 ## Ok, so should I buy?
-We actually didn't cover all costs involved in owning a property: notary fees, income tax, maintenance costs, mortgage amortization, building insurance, capital gain tax and so on. As a follow up to this post I will create a part 2 computing all the (estimated) costs involved. It will show you how each component factors into the cost and will teach how to compute your final (estimated) profit.
+Personally, I think owning a property can be a good investment, even if perhaps it has lower returns than stocks. This is a great asset class for diversification, is rather safe and if you dream of ever living in a place you own, can be a great stepping stone in that direction. Not necessarily you have to buy a property to live in it, the math also works or may be even more favorable of buying a place to rent. This decision however highly property-specific and depends on where you want to live / let.
+
+In a future post we will simulate how much it actually costs to buy a property, how much you'd save if you live in it or how much is left in rent if you decide to let it. We will go over notary fees, income tax, maintenance costs, mortgage amortization, building insurance, capital gain tax and so on. It will show you how each component factors into the cost and will teach how to compute your final (estimated) profit.
