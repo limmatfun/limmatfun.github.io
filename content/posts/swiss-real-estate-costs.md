@@ -3,10 +3,12 @@ title: "Buying property in Switzerland: how much it costs"
 date: 2024-06-23T00:47:28+02:00
 draft: false
 limmat_temperature: 17.3
-images: ["images/buy_vs_rent.png"]
+images: ["images/owning_property.jpeg"]
 tags: ["Investing", "Real Estate"]
 ---
 In the [previous post](/posts/swiss-real-estate/) we went over on why having a foot in real estate may make financial sense. In this post we will focus on how to compute the actual taxes and costs involved in buying property. We will also compare the differences in costs between both buy-to-live and buy-to-let scenarios.
+
+{{< figure src="/images/owning_property.jpeg" width="60%" caption="Incredible rendering of the prompt 'The dream of owning a house in Zurich. Monet style.' by [getimg.ai](https://getimg.ai/text-to-image).">}}
 
 ## Taxes in buying property in Switzerland
 Let's start with everyone's favorite topic: taxes. There are 5 different ones when owning real estate.
