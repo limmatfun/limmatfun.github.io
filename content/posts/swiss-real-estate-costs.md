@@ -1,8 +1,8 @@
 ---
 title: "Buying property in Switzerland: how much it costs"
-date: 2024-06-17T00:47:28+02:00
-draft: true
-limmat_temperature: 18.7
+date: 2024-06-23T00:47:28+02:00
+draft: false
+limmat_temperature: 17.3
 images: ["images/buy_vs_rent.png"]
 tags: ["Investing", "Real Estate"]
 ---
@@ -59,6 +59,8 @@ Once a property is transferred, another tax is due. The property transfer tax is
 
 Some cantons do not charge a property transfer tax but rather a higher fee as part of the land register entry.
 
+Tax deductible: **Maybe**. Depending on the Canton, this can be deducted from your real estate capital gain tax.
+
 ## Costs
 We're not done with spending money. 😅 There's still many costs involved in owning a house that we have to go over. Luckily, many of those can be deducted from your taxes.
 
@@ -68,14 +70,14 @@ As mentioned in the previous post, mortgages are the star of the show when buyin
 Tax deductible: **Yes**.
 
 ### Amortization
-Switzerland requires that your mortgage eventually only covers two thirds of your property after 15 years. This means that if you start by only owning 20%, you have 15 years to own an additional 13.3%. For a buy-to-let property you have to own 25% from the start and only have 10 years to reach the additional 8.3%. Typically it is assumed that you amortizing about 1% per year.
+Switzerland requires that your mortgage eventually only covers two thirds of your property after 15 years. This means that if you start by only owning 20%, you have 15 years to own an additional 13.3%. For a buy-to-let property you have to own 25% from the start and only have 10 years to reach the additional 8.3%. Typically it is assumed that you are amortizing about 1% per year.
 
 Tax deductible: **No**. This money is directly reducing your debt and increasing the percentage of the house that belongs to you.
 
 ### Management fees ("Verwaltungskosten")
-This is optional but highly recommended if you have a buy-to-let property. Personally, I would not want to trade a higher rental yield for more work. Dealing with tenants can be very time consuming and I'd be happy to pay the fees required here.
+This is optional but highly recommended for both buy-to-live or buy-to-let properties. If you live in an apartment building with multiple other tenants, a management agency can take care of a broken lift, finding a new janitor and general maintenance of the property. Costs are between 400 and 1000 CHF.
 
-A management agency typically charges 5% of your net rental income for handling day-to-day issues. It will not handle finding new tenants nor a tenant handover. If you want that, they typically charge 12%.
+For buy-to-let I think having a management agency is even more important. Personally, I would not want to trade a higher rental yield for more work. Dealing with tenants can be very time consuming and I'd be happy to pay the fees required here. A management agency typically charges 5% of your net rental income for handling day-to-day issues. It will not handle finding new tenants nor a tenant handover. If you want that, they typically charge 12%.
 
 Tax deductible: **Yes**.
 
@@ -109,7 +111,7 @@ Buying a property is typically done via a real estate agency. The agency typical
 Tax deductible: **Yes**, from the real estate gain tax.
 
 ### One-off: Notary fees ("Notargebühren", "Kanzleigebühren" or  "Grundbuchgebühren")
-Notary fees vary a lot depending on the canton. Together with the property transfer tax this can cost up to 5%. Canton Aargau doesn't charge any property transfer tax and the the notary fee goes from 0.4% up to 0.7%, depending on the property value. Canton Zurich charges a flat 2%. In many cantons this cost is shared between buyer and seller.
+Notary fees vary a lot depending on the canton. Together with the property transfer tax this can cost up to 5%. Canton Aargau doesn't charge any property transfer tax and the the notary fee goes from 0.4% up to 0.7%, depending on the property value. Canton Zurich charges a flat 0.2%. This cost is usually shared between buyer and seller.
 
 Tax deductible: **No**.
 
@@ -128,58 +130,76 @@ Here's a brief summary of the differences:
 *  For buy-to-let you can't use any money from pillar 2 nor 3.
 *  Real estate gain tax can not be postponed if you don't live in it.
 
-## Scenario (buy-to-live): Apartment in Zurich
-Property gain in value
+Let's now simulate a couple of different scenarios:
+1.  A buy-to-live apartment in a desired city such as Zurich.
+2.  An apartment building ("Mehrfamilienhaus") in a non-central location.
 
-*  Marginal income tax: 35%
-*  Property value: 1M
-*  Net rental income, ancillary costs ("Nebenkosten") excluded: 40k
+## Scenario (buy-to-live): Apartment in Zurich
+Here's a typical property in Zurich:
+*  Somewhat modern, very central location, 1 bedroom apartment, 70m2 ([taken from homegate.ch](https://www.homegate.ch/kaufen/4001220656), [archive snapshot](https://web.archive.org/web/20240622123407/https://www.homegate.ch/kaufen/4001220656) [ignore price and size from snapshot])
+*  Property price: 1.3M
+
+Let's also assume that:
+*  Your marginal income tax: 35% (salary of ~200k in Zurich, no kids, no religion)
+*  Downpayment: 20%, which is the minimum. 1.3M * 20% => 260'000 CHF.
+*  Mortgage: 80%. 1.3M * 80% => 1'040'000 CHF.
+*  Mortgage interest rate: 2%. 1'040'000 * 2% => 20'800 CHF.
+*  You live in apartment building with 6 other apartments, sharing maintenance, management agency and building insurance costs (~1% per year) => 13'000 CHF.
+
+We're going to ignore wealth tax in this calculation as it doesn't matter if you're investing in your own apartment, stocks or just holding cash.
+
+Your imputed rental value can be computed as 4.25% of 70% of the property price, according to [Zurich tax information](https://www.houzy.ch/post/eigenmietwert-zuerich-berechnen#:~:text=Im%20Kanton%20Z%C3%BCrich%20wird%20der,betr%C3%A4gt%2070%20Prozent%20des%20Verkehrswertes.). Concretely this means 1.3M * 4.25% * 70% => 38'675 CHF per year in imputed rent (3'222 CHF per month, which to be honest sounds unlikely for this specific apartment).
 
 | Taxes & Costs | Value | Tax deductible | Final cost
 | :--- | ----: | ----: | ----:
-| Net rental income | 10k CHF |  | +10'000
-| Income tax on rental income (35%) |  | No | -10
-| Mortgage interest (2%) |  | Yes (35%) | -10
-| Amortization (1% of property value) |  | 0% | -10
-| Building depreciation | - | Yes | +XCHF
-| **Total** |  |  | +1'000
+| Income tax on imputed rental value (35%) | 38'675 * 35% => 13'536  | No | -13'536
+| Mortgage interest (2%) | 1'040'000 * 2% => 20'800 | Yes (35%) | 20'800 * (100% - 35%) => -13'520
+| General maintenance with management and insurance | 13'000 | Yes (35%) | 13'000 * (100% - 35%) => -8'450
+| Property tax (0% in Zurich) | 0 | No | 0
+| **Total** |  |  | **-35'506 CHF**
 
-## Scenario (buy-to-let): Apartment building with 3 units in Aargau
-Is the mortgage criteria fulfilled? See https://www.vermoegenszentrum.ch/wissen/tragbarkeit-bei-mehrfamilienhaeusern
+I think the property above could rent for 2'750 CHF per month (33'000 CHF per year). This shows that the total costs in owning this apartment (35'506 CHF) are greater than renting already. This investment would have a negative yield and we didn't even compute the required mortgage amortization.
 
-Recurring costs:
-*  General maintenance: 1% of value of property
-*  Building insurance: Canton-dependent (https://www.comparis.ch/hausrat-versicherung/hausratversicherung/gebaeudeversicherung) but seems negligible compared to the other costs. 
-*  Property tax ("Liegenschaftssteuer"): Canton-dependent, mostly 0 in german-speaking Cantons; has same effect as a wealth tax
-*  Tenant insurance: Protects against tenants not paying rent and an apartment being empty for a long time. Not sure if necessary nor how much it costs
-*  Management costs ("Verwaltung"): 3.5% bis 5% without new letting (https://www.cash.ch/news/top-news/immobilien-verwalten-lassen-wann-es-sich-lohnt-was-es-kostet-419274). With new letting 12% (!). (Tax deductible: https://www.shkb.ch/828-steuertipps-fuer-liegenschaftsbesitzende and https://moneypark.ch/news-wissen/hypotheken-und-zinsen/steuern-bei-renditeliegenschaften/)
-*  Mortgage interest rates: 1.75% bis 2% (tax deductible)
-*  Amortization of the mortgage down to 65 % within 10 years: ?
-*  Income tax on rental income: Your marginal tax rate, I think.
+What makes this investment more interesting is if you consider that it is appreciating in value. If we assume that [Zurich will continue to appreciate at ~4.5% per year](/posts/swiss-real-estate/#1-appreciation), after 10 years your property would be worth 1.3M * (4.5%) ^ 10 => 2.01M. Let's assume the real estate agency and other taxes cost 3% => 60'000. This is a capital gain of 2M - 1.3M - 60'000 => ~640'000 in 10 years if sold, which would be taxed at 31%. 640'000 * (100% - 31%) => 441'000 or 44'100 per year.
 
-One-off costs:
-*  Notary fees (typically contains some other taxes, not sure what exactly): mostly canton-dependent how much and who pays for it (buyer or seller), some ads seem to split this cost. 2 to 5%
-*  Real estate agency commission (Maklerprovisionen)
-*  Property transfer tax ("Handänderungssteuer")
-*  Property price analysis (before purchasing): 1800 to 3000 CHF
+44'100 (from appreciation) minus 35'506 (costs after taxes) => +8'594 CHF per year. With a downpayment of 200'000, this represents a yield of 4.2%. That's not bad, but a continuous appreciation of 4.5% per year sounds unsustainable.
 
-Now simulating it for a specific property.
+## Scenario (buy-to-let): Apartment building with 4 units in Glarus
+Let's now simulate buying a small apartment building with 4 apartments in Mitlödi, Glarus ([taken from homegate.ch](https://www.homegate.ch/kaufen/4000797702), [archive snapshot](https://web.archive.org/web/20240622150056/https://www.homegate.ch/kaufen/4000797702) [ignore price and size from snapshot]). The property is fully renovated, so no big investment predicted for the near future.
 
-Property:
-*  https://www.homegate.ch/kaufen/4001181128. Price 1.6M, net rental income: 71k
-*  400k downpayment
-*  1200k mortgage
-*  Marginal tax rate: 40%
+Their [sales dossier](https://wayback-api.archive.org/web/20240622150509/https://wenet.landingpage.immobilien/public/a/einheit/mTT2bJsyHCgUttgybphCUGDy/HWGNvV7UV4YQMPipXm8c8mvm) has the following information:
+*  Property price: 1'190'000 CHF
+*  Gross rental income: 61'440 CHF
+*  Additional costs (Nebenkosten): 8'000 CHF
+*  Net rental income: (61'440 - 8'000) => 53'440 CHF
 
-Costs:
-*  Management costs (12% for full service; tax-deductible): 71k*12%*(100%-40%)=5.1k
-*  Building insurance (taken from documentation): ~0.5k CHF
-*  Maintenance (1% of total cost): 16k
-*  Mortgage interest rate (2%, tax deductible): 1200*2%*(100%-40%): 14.4k
-*  Income tax on rent: 71k*40% = 28.4k
-*  Amortisation: ?
-*  Total costs: 64.4k
+Let's make the following assumptions:
+*  Your marginal income tax: 35% (salary of ~200k in Zurich, no kids, no religion)
+*  Downpayment: 25%, which is the minimum for buy-to-let. 1.19M * 25% => 297'500 CHF.
+*  Mortgage: 75%. 1.19M * 75% => 892'500 CHF.
+*  Mortgage interest rate: 2%. 892'500 * 2% => 17'850 CHF.
 
-Which gives a measly yield of (71k-64.4k) / (downpayment of 400k) = 1.6%. I'm hoping there's something wrong with my calculations, or maybe this just means this is not a good property. It's still missing the amortization costs and doesn't take appreciation into consideration.
+| Taxes & Costs | Value | Tax deductible | Final cost
+| :--- | ----: | ----: | ----:
+| Net rental income | 53'440 | - | +53'440
+| Income tax on net rental income (35%) | 53'440 * 35% => 18'704  | No | -18'704
+| Mortgage interest (2%) | 892'500 * 2% => 17'850 | Yes (35%) | 20'800 * (100% - 35%) => -11'602
+| Management fees (12% of net rental income) | 53'440 * 12% => 6'413 | Yes (35%) | 6'413 * (100% - 35%) => -4'168
+| General maintenance (1% of property value) | 1'190'000 * 1% => 11'900 | Yes (35%) | 11'900 * (100% - 35%) => -7'735
+| Risk of rental loss (3% of net rental income) | 53'440 * 3% => 1'603 | No | -1'603
+| Building insurance (0.1% of property value) | 1'190'000 * 0.1% => 1'190 | Yes (35%) | 1'900 * (100% - 35%) => -774
+| Property tax (0% in Glarus) | 0 | No | 0
+| **Total** |  |  | **+8'854 CHF**
 
-Don't trade extra yield for more work (managing a property)
+This is a yield of 8'854 / 297'500 => 3.0%. An amortization of 1% per year would cost an additional 11'900 swiss francs, which puts the yield in the negative. However amortization is not a cost, this money goes directly to your networth, reducing your debt, so this is not added to the calculation.
+
+In Mitlödi, property prices went up by 94% in 20 years, which is an annual average growth of 3.4%. If we assume a more conservative 1.5% growth, this means the property would be worth 1.19M * (1.5% ^ 10) => 1.38M after 10 years. Let's assume we sell after 10 years and the real estate agency and other taxes cost 3% => 41'400. This is a capital gain of 1.38M - 1.19M - 41'400 => 148'600, which would be taxed at 36.5%. 148'600 * (100% - 36.5%) => 94'000 or 9'400 per year.
+
+9'400 (from appreciation) plus 8'854 (rent after costs) => +18'254 CHF per year. With a downpayment of 297'500, this represents a yield of 6.1%. That's a very decent return on investment.
+
+Note that for both simulations we are still missing taking building depreciation and notary costs into account, though they are unlikely to change the picture too much.
+
+## Conclusion
+Buying a property in a desirable, urban and central location is likely to be more expensive than renting. However, appreciation of such areas can not be ignored and may turn a 'bad' purchase into a reasonable investment.
+
+Properties in more rural or remote area can be a good investment, even ignoring appreciation. They do come with much more management and analysis requirements than simply investing in stocks.

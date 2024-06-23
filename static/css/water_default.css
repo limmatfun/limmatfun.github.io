@@ -78,6 +78,10 @@ ul.tag-list li:first-child {
     font-style: italic;
 }
 
+.river span {
+    color: #d1d1d1;
+}
+
 .post-header h1.title {
     margin: -10px 0 -6px 0;
 }
