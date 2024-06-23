@@ -142,7 +142,7 @@ Here's a typical property in Zurich:
 *  Property price: 1.3M
 
 Let's also assume that:
-*  Your marginal income tax: 35% (salary of ~200k in Zurich, no kids, no religion)
+*  Your marginal income tax: 35% (salary of ~200k in Zurich, no kids, no church tax)
 *  Downpayment: 20%, which is the minimum. 1.3M * 20% => 260'000 CHF.
 *  Mortgage: 80%. 1.3M * 80% => 1'040'000 CHF.
 *  Mortgage interest rate: 2%. 1'040'000 * 2% => 20'800 CHF.
@@ -176,7 +176,7 @@ Their [sales dossier](https://wayback-api.archive.org/web/20240622150509/https:/
 *  Net rental income: (61'440 - 8'000) => 53'440 CHF
 
 Let's make the following assumptions:
-*  Your marginal income tax: 35% (salary of ~200k in Zurich, no kids, no religion)
+*  Your marginal income tax: 35% (salary of ~200k in Zurich, no kids, no church tax)
 *  Downpayment: 25%, which is the minimum for buy-to-let. 1.19M * 25% => 297'500 CHF.
 *  Mortgage: 75%. 1.19M * 75% => 892'500 CHF.
 *  Mortgage interest rate: 2%. 892'500 * 2% => 17'850 CHF.
